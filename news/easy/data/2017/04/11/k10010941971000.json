@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010941971000.mp3", 
+  "title": "グーグル　情報が本当かどうかチェックして知らせる", 
+  "news_prearranged_time": "2017-04-11 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>世界<rt>せかい</rt></ruby>でうそのニュースが<ruby>問題<rt>もんだい</rt></ruby>になっています。", 
+  "news_web_movie_uri": "k10010941971_201704091012_201704091014.mp4", 
+  "title_with_ruby": "グーグル　<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>本当<rt>ほんとう</rt></ruby>かどうかチェックして<ruby>知<rt>し</rt></ruby>らせる", 
+  "news_id": "k10010941971000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170409/../20170409/K10010941971_1704090718_1704090747_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

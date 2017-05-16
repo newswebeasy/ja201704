@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010939851000.mp3", 
+  "title": "ジカ熱が広がった国　社会や経済のマイナスは２兆円", 
+  "news_prearranged_time": "2017-04-10 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>南<rt>みなみ</rt></ruby>アメリカ</a>のブラジルなどたくさんの<ruby>国<rt>くに</rt></ruby>で２０１５<ruby>年<rt>ねん</rt></ruby>から「ジカ<ruby>熱<rt>ねつ</rt></ruby>」が<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>広<rt>ひろ</rt></ruby>がり</a>ました。", 
+  "news_web_movie_uri": "k10010939851_201704070723_201704070725.mp4", 
+  "title_with_ruby": "ジカ<ruby>熱<rt>ねつ</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がった<ruby>国<rt>くに</rt></ruby>　<ruby>社会<rt>しゃかい</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>のマイナスは２<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>", 
+  "news_id": "k10010939851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170407/../20170407/K10010939851_1704070723_1704070725_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

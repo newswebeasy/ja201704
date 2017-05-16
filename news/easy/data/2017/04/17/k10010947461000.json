@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010947461000.mp3", 
+  "title": "「ＬＩＮＥ」を使って自動販売機の飲み物を買う", 
+  "news_prearranged_time": "2017-04-17 11:30:00", 
+  "news_easy_image_uri": "k10010947461000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のキリングループは、スマートフォンの「ＬＩＮＥ」というアプリを<ruby>使<rt>つか</rt></ruby>って<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></a>を<ruby>作<rt>つく</rt></ruby>りました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "「ＬＩＮＥ」を<ruby>使<rt>つか</rt></ruby>って<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う", 
+  "news_id": "k10010947461000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

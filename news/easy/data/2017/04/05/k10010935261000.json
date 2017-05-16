@@ -1,0 +1,81 @@
+{
+  "content_with_ruby": "<p>シロエビは<ruby>長<rt>なが</rt></ruby>さが５ｃｍ〜８ｃｍぐらいの<span class=\"newWord\">えび</span>で、<ruby>富山湾<rt>とやまわん</rt></ruby>でたくさん<span class=\"newWord\">とれ</span>ます。<ruby>体<rt>からだ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>い<span class=\"newWord\">ピンク</span>で、<span class=\"newWord\"><ruby>透<rt>す</rt></ruby>き<ruby>通<rt>とお</rt></ruby>っ</span>ていてきれいなため「<ruby>富山湾<rt>とやまわん</rt></ruby>の<span class=\"newWord\"><ruby>宝石<rt>ほうせき</rt></ruby></span>」と<ruby>呼<rt>よ</rt></ruby>ばれています。</p>\n<p>シロエビの<span class=\"newWord\"><ruby>漁<rt>りょう</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。<ruby>今年<rt>ことし</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>かったため、<ruby>３日<rt>みっか</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<span class=\"newWord\"><ruby>漁<rt>りょう</rt></ruby></span>をしました。<ruby>富山県<rt>とやまけん</rt></ruby><ruby>射水市<rt>いみずし</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>には<ruby>朝<rt>あさ</rt></ruby>５<span class=\"newWord\"><ruby>隻<rt>せき</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>りました。<ruby>全部<rt>ぜんぶ</rt></ruby>で１８００ｋｇぐらいのシロエビが<span class=\"newWord\">とれ</span>ました。このシロエビは<ruby>富山県<rt>とやまけん</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>のほか<ruby>東京<rt>とうきょう</rt></ruby>などでも<ruby>売<rt>う</rt></ruby>ります。</p>\n<p><span class=\"newWord\"><ruby>漁<rt>りょう</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>たちの<span class=\"newWord\">グループ</span>は「<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がシロエビを<ruby>食<rt>た</rt></ruby>べることができるように、たくさん<span class=\"newWord\">とれる</span>といいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170403/k10010935261000.html", 
+  "news_prearranged_time": "2017-04-05 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010935261_201704031443_201704031444.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "漁", 
+      "descriptions": [
+        "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。"
+      ]
+    }, 
+    {
+      "word": "海老・", 
+      "descriptions": [
+        "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>などにすみ、<ruby><rb>体</rb><rt>からだ</rt></ruby>が、<ruby><rb>節</rb><rt>ふし</rt></ruby>のあるかたいからに<ruby><rb>包</rb><rt>つつ</rt></ruby>まれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>と、２<ruby><rb>本</rb><rt>ほん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>いひげがある。"
+      ]
+    }, 
+    {
+      "word": "捕れる", 
+      "descriptions": [
+        "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。", 
+        "とることができる。"
+      ]
+    }, 
+    {
+      "word": "ピンク", 
+      "descriptions": [
+        "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "透き通る", 
+      "descriptions": [
+        "すけて、<ruby><rb>中</rb><rt>なか</rt></ruby>のほうや、<ruby><rb>向</rb><rt>む</rt></ruby>こうのほうが<ruby><rb>見</rb><rt>み</rt></ruby>える。", 
+        "<ruby><rb>声</rb><rt>こえ</rt></ruby>などがすんで、よく<ruby><rb>通</rb><rt>とお</rt></ruby>る。"
+      ]
+    }, 
+    {
+      "word": "宝石", 
+      "descriptions": [
+        "<ruby><rb>美</rb><rt>うつく</rt></ruby>しくて<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある、かざりに<ruby><rb>使</rb><rt>つか</rt></ruby>われる<ruby><rb>石</rb><rt>いし</rt></ruby>。ダイヤモンド・ルビー・サファイア・エメラルドなど。"
+      ]
+    }, 
+    {
+      "word": "隻", 
+      "descriptions": [
+        "ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。", 
+        "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "捕れる", 
+      "descriptions": [
+        "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。", 
+        "とることができる。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170403/../20170403/K10010935261_1704051105_1704051106_01_03.jpg", 
+  "outline": "シロエビは長さが５ｃｍ〜８ｃｍぐらいのえびで、富山湾でたくさんとれます。", 
+  "content": "シロエビは長さが５ｃｍ〜８ｃｍぐらいのえびで、富山湾でたくさんとれます。体の色は薄いピンクで、透き通っていてきれいなため「富山湾の宝石」と呼ばれています。\nシロエビの漁は毎年４月１日に始まります。今年は天気が悪かったため、３日に初めて漁をしました。富山県射水市の港には朝５隻の船が戻りました。全部で１８００ｋｇぐらいのシロエビがとれました。このシロエビは富山県にある店のほか東京などでも売ります。\n漁をする人たちのグループは「大勢の人がシロエビを食べることができるように、たくさんとれるといいと思います」と話していました。", 
+  "news_easy_voice_uri": "k10010935261000.mp3", 
+  "title": "富山県の海でシロエビの漁が始まる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>シロエビは<ruby>長<rt>なが</rt></ruby>さが５ｃｍ〜８ｃｍぐらいの<span class=\"newWord\">えび</span>で、<ruby>富山湾<rt>とやまわん</rt></ruby>でたくさん<span class=\"newWord\">とれ</span>ます。", 
+  "news_id": "k10010935261000", 
+  "title_with_ruby": "<ruby>富山県<rt>とやまけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でシロエビの<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_easy_movie_uri": "''"
+}

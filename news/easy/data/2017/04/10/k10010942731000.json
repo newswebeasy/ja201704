@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010942731000.mp3", 
+  "title": "エジプト　２つの教会で爆発があって４０人以上が亡くなる", 
+  "news_prearranged_time": "2017-04-10 16:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>エジプトで<ruby>９日<rt>ここのか</rt></ruby>、タンタとアレクサンドリアにある<a href='javascript:void(0)' class='dicWin' id='id-0001'>キリスト<ruby>教<rt>きょう</rt></ruby></a>の<ruby>教会<rt>きょうかい</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>爆発<rt>ばくはつ</rt></ruby></a>がありました。", 
+  "news_web_movie_uri": "k10010942731_201704100720_201704100723.mp4", 
+  "title_with_ruby": "エジプト　２つの<ruby>教会<rt>きょうかい</rt></ruby>で<ruby>爆発<rt>ばくはつ</rt></ruby>があって４０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10010942731000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170410/../20170410/K10010942731_1704100719_1704100723_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

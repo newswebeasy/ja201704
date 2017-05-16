@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010952411000.mp3", 
+  "title": "盆栽を見ながらお茶を飲む店が東京の銀座にできる", 
+  "news_prearranged_time": "2017-04-20 15:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>盆栽<rt>ぼんさい</rt></ruby></a>は<ruby>外国<rt>がいこく</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちなどに<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>人気<rt>にんき</rt></ruby></a>になっていて、<ruby>日本<rt>にっぽん</rt></ruby>からの<ruby>輸出<rt>ゆしゅつ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>盆栽<rt>ぼんさい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>にできる", 
+  "news_id": "k10010952411000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170418/../20170418/K10010952411_1704181454_1704181506_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

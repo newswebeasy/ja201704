@@ -1,0 +1,37 @@
+{
+  "content_with_ruby": "<p>２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>福島第一原子力発電所<rt>ふくしまだいいちげんしりょくはつでんしょ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>のあと、<ruby>福島県<rt>ふくしまけん</rt></ruby>の１１の<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>と<ruby>村<rt>むら</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができなくなりました。この<ruby>場所<rt>ばしょ</rt></ruby>では、<span class=\"newWord\"><ruby>放射線<rt>ほうしゃせん</rt></ruby></span>の<span class=\"newWord\"><ruby>量<rt>りょう</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなるように「<ruby>除染<rt>じょせん</rt></ruby>」が<ruby>続<rt>つづ</rt></ruby>いています。</p>\n<p>３<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>と４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から、<ruby>浪江町<rt>なみえまち</rt></ruby>や<ruby>富岡町<rt>とみおかまち</rt></ruby>など４つの<ruby>町<rt>まち</rt></ruby>と<ruby>村<rt>むら</rt></ruby>にまた<ruby>住<rt>す</rt></ruby>むことができるようになりました。</p>\n<p>ＪＲ<ruby>常磐線<rt>じょうばんせん</rt></ruby>の<ruby>浪江駅<rt>なみええき</rt></ruby>と<ruby>小高駅<rt>おだかえき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>では、<ruby>電車<rt>でんしゃ</rt></ruby>がまた<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、まだ<ruby>運転<rt>うんてん</rt></ruby>ができない<ruby>場所<rt>ばしょ</rt></ruby>も２０２０<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに<ruby>運転<rt>うんてん</rt></ruby>ができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p><ruby>富岡町<rt>とみおかまち</rt></ruby>では、<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>やいわき<ruby>市<rt>し</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>でバスが<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p><ruby>福島県<rt>ふくしまけん</rt></ruby>では、<ruby>今<rt>いま</rt></ruby>までに９つの<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>と<ruby>村<rt>むら</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができるようになりました。しかし、この<ruby>中<rt>なか</rt></ruby>にもまだ<span class=\"newWord\"><ruby>放射線<rt>ほうしゃせん</rt></ruby></span>の<span class=\"newWord\"><ruby>量<rt>りょう</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>いため<ruby>入<rt>はい</rt></ruby>ることができない<ruby>場所<rt>ばしょ</rt></ruby>があります。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170401/k10010933171000.html", 
+  "news_prearranged_time": "2017-04-03 16:35:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010933171_201704010712_201704010733.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "放射線", 
+      "descriptions": [
+        "ウランやラジウムなどの<ruby><rb>放射性</rb><rt>ほうしゃせい</rt></ruby><ruby><rb>元素</rb><rt>げんそ</rt></ruby>がこわれて、ほかの<ruby><rb>元素</rb><rt>げんそ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>に<ruby><rb>浴</rb><rt>あ</rt></ruby>びると<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>である。"
+      ]
+    }, 
+    {
+      "word": "量", 
+      "descriptions": [
+        "かさ。ますめ。", 
+        "ものをはかる。", 
+        "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170401/../20170401/K10010933171_1704010547_1704010548_01_03.jpg", 
+  "outline": "２０１１年の福島第一原子力発電所の事故のあと、福島県の１１の市と町と村に入ることができなくなりました。", 
+  "content": "２０１１年の福島第一原子力発電所の事故のあと、福島県の１１の市と町と村に入ることができなくなりました。この場所では、放射線の量が少なくなるように「除染」が続いています。\n３月３１日と４月１日から、浪江町や富岡町など４つの町と村にまた住むことができるようになりました。\nＪＲ常磐線の浪江駅と小高駅の間では、電車がまた走り始めました。ＪＲ東日本は、まだ運転ができない場所も２０２０年３月までに運転ができるようにしたいと言っています。\n富岡町では、町の中やいわき市との間でバスが走り始めました。\n福島県では、今までに９つの市と町と村に入ることができるようになりました。しかし、この中にもまだ放射線の量が多いため入ることができない場所があります。", 
+  "news_easy_voice_uri": "k10010933171000.mp3", 
+  "title": "福島県の４つの町と村にまた住むことができるようになる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>福島第一原子力発電所<rt>ふくしまだいいちげんしりょくはつでんしょ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>のあと、<ruby>福島県<rt>ふくしまけん</rt></ruby>の１１の<ruby>市<rt>し</rt></ruby>と<ruby>町<rt>まち</rt></ruby>と<ruby>村<rt>むら</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができなくなりました。", 
+  "news_id": "k10010933171000", 
+  "title_with_ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby>の４つの<ruby>町<rt>まち</rt></ruby>と<ruby>村<rt>むら</rt></ruby>にまた<ruby>住<rt>す</rt></ruby>むことができるようになる", 
+  "news_easy_movie_uri": "''"
+}

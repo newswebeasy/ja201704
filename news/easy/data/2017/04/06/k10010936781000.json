@@ -1,0 +1,91 @@
+{
+  "content_with_ruby": "<p><ruby>国際農林水産業研究<rt>こくさいのうりんすいさんぎょうけんきゅう</rt></ruby>センターなどの<span class=\"newWord\">グループ</span>が<ruby>研究<rt>けんきゅう</rt></ruby>して、<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>でも<ruby>育<rt>そだ</rt></ruby>てることができる<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>をつくりました。</p>\n<p><span class=\"newWord\">グループ</span>は、まず「シロイヌナズナ」という<span class=\"newWord\"><ruby>植物<rt>しょくぶつ</rt></ruby></span>から<span class=\"newWord\"><ruby>乾燥<rt>かんそう</rt></ruby></span>に<ruby>強<rt>つよ</rt></ruby>い<span class=\"newWord\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>りました。この<span class=\"newWord\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>を、<span class=\"newWord\"><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>で<ruby>多<rt>おお</rt></ruby>く<ruby>育<rt>そだ</rt></ruby>てている<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>に<ruby>入<rt>い</rt></ruby>れて、<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>をつくりました。そして、<ruby>雨<rt>あめ</rt></ruby>があまり<ruby>降<rt>ふ</rt></ruby>らないコロンビアの<span class=\"newWord\"><ruby>田<rt>た</rt></ruby>んぼ</span>に、この<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>を<ruby>植<rt>う</rt></ruby>えて<span class=\"newWord\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>いました。</p>\n<p>１か<ruby>月<rt>げつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らなかったときにも、<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>からは<ruby>多<rt>おお</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>で<span class=\"newWord\"><ruby>元<rt>もと</rt></ruby></span>の<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>の２．５<ruby>倍<rt>ばい</rt></ruby>の<ruby>米<rt>こめ</rt></ruby>が<span class=\"newWord\"><ruby>取<rt>と</rt></ruby>れ</span>ました。</p>\n<p><span class=\"newWord\">グループ</span>はこれからも<span class=\"newWord\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けて、<ruby>食<rt>た</rt></ruby>べても<ruby>問題<rt>もんだい</rt></ruby>がないかなどをチェックします。そして、アフリカやアジア、<span class=\"newWord\"><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>など<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて<ruby>困<rt>こま</rt></ruby>っている<ruby>所<rt>ところ</rt></ruby>で、この<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>を<ruby>植<rt>う</rt></ruby>えることができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170404/k10010936781000.html", 
+  "news_prearranged_time": "2017-04-06 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "words": [
+    {
+      "word": "稲", 
+      "descriptions": [
+        "<ruby><rb>実</rb><rt>み</rt></ruby>を<ruby><rb>米</rb><rt>こめ</rt></ruby>として<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>田</rb><rt>た</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>水稲</rb><rt>すいとう</rt></ruby>と、<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>陸稲</rb><rt>りくとう</rt></ruby>がある。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>稲穂</rb><rt>いなほ</rt></ruby>が<ruby><rb>実</rb><rt>みの</rt></ruby>る。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "植物", 
+      "descriptions": [
+        "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>二</rb><rt>ふた</rt></ruby>つに<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>するもう<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・きのこ・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>など。"
+      ]
+    }, 
+    {
+      "word": "乾燥", 
+      "descriptions": [
+        "かわくこと。また、かわかすこと。"
+      ]
+    }, 
+    {
+      "word": "遺伝子", 
+      "descriptions": [
+        "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "南アメリカ", 
+      "descriptions": [
+        "<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "田んぼ", 
+      "descriptions": [
+        "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "実験", 
+      "descriptions": [
+        "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。"
+      ]
+    }, 
+    {
+      "word": "元", 
+      "descriptions": [
+        "<ruby><rb>起</rb><rt>お</rt></ruby>こり。<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>原因</rb><rt>げんいん</rt></ruby>。", 
+        "<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>。", 
+        "<ruby><rb>元手</rb><rt>もとで</rt></ruby>。<ruby><rb>資本</rb><rt>しほん</rt></ruby>。", 
+        "<ruby><rb>昔</rb><rt>むかし</rt></ruby>。<ruby><rb>以前</rb><rt>いぜん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "取れる", 
+      "descriptions": [
+        "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。", 
+        "つかれなどが、なくなる。", 
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。", 
+        "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。", 
+        "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。", 
+        "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170404/../20170404/K10010936781_1704041707_1704041720_01_02.jpg", 
+  "outline": "国際農林水産業研究センターなどのグループが研究して、雨が少ない所でも育てることができる新しい稲をつくりました。", 
+  "content": "国際農林水産業研究センターなどのグループが研究して、雨が少ない所でも育てることができる新しい稲をつくりました。\nグループは、まず「シロイヌナズナ」という植物から乾燥に強い遺伝子を取りました。この遺伝子を、南アメリカで多く育てている稲に入れて、新しい稲をつくりました。そして、雨があまり降らないコロンビアの田んぼに、この新しい稲を植えて実験を行いました。\n１か月以上雨が降らなかったときにも、新しい稲からは多い所で元の稲の２．５倍の米が取れました。\nグループはこれからも実験を続けて、食べても問題がないかなどをチェックします。そして、アフリカやアジア、南アメリカなど雨が少なくて困っている所で、この稲を植えることができるようにしたいと言っています。", 
+  "news_easy_voice_uri": "k10010936781000.mp3", 
+  "title": "雨が少ない所でも育てることができる新しい稲をつくる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><ruby>国際農林水産業研究<rt>こくさいのうりんすいさんぎょうけんきゅう</rt></ruby>センターなどの<span class=\"newWord\">グループ</span>が<ruby>研究<rt>けんきゅう</rt></ruby>して、<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>でも<ruby>育<rt>そだ</rt></ruby>てることができる<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>稲<rt>いね</rt></ruby></span>をつくりました。", 
+  "news_id": "k10010936781000", 
+  "title_with_ruby": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>所<rt>ところ</rt></ruby>でも<ruby>育<rt>そだ</rt></ruby>てることができる<ruby>新<rt>あたら</rt></ruby>しい<ruby>稲<rt>いね</rt></ruby>をつくる", 
+  "news_easy_movie_uri": "''"
+}

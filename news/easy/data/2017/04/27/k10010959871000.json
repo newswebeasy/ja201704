@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010959871000.mp3", 
+  "title": "「メルカリ」などでお金を売ることを禁止する", 
+  "news_prearranged_time": "2017-04-27 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>スマートフォンの「メルカリ」というアプリでは、<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>物<rt>もの</rt></ruby>などを<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりすることができます。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "「メルカリ」などでお<ruby>金<rt>かね</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることを<ruby>禁止<rt>きんし</rt></ruby>する", 
+  "news_id": "k10010959871000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170424/../20170424/K10010959871_1704242314_1704242315_01_02.jpg?utm_int=nsearch_contents_search-items_003", 
+  "news_easy_movie_uri": "''"
+}

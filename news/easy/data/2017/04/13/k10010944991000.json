@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010944991000.mp3", 
+  "title": "大きな地震があった熊本県を応援するための商品を売る", 
+  "news_prearranged_time": "2017-04-13 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>、<ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があって、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったり<ruby>家<rt>いえ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れたりしました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった<ruby>熊本県<rt>くまもとけん</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>するための<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る", 
+  "news_id": "k10010944991000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170411/../20170411/K10010944991_1704111945_1704112015_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

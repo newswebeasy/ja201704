@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>駅</rb><rt>えき</rt></ruby>などに<ruby><rb>備</rb><rt>そな</rt></ruby>えてある）コインを<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>使用</rb><rt>しよう</rt></ruby>するロッカー。",
+          "hyouki": [
+            "コインロッカー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "うそをほんとうと<ruby><rb>思</rb><rt>おも</rt></ruby>わせる。",
+          "hyouki": [
+            "だます"
+          ]
+        },
+        {
+          "def": "きげんをとってなだめる。",
+          "hyouki": [
+            "だます"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（その<ruby><rb>人</rb><rt>ひと</rt></ruby>の）よい<ruby><rb>成績</rb><rt>せいせき</rt></ruby>や<ruby><rb>行</rb><rt>おこな</rt></ruby>いをほめたたえることばを<ruby><rb>書</rb><rt>か</rt></ruby>いてあたえる<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "賞状"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ]
+    }
+  }
+}

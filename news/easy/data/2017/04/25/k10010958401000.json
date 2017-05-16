@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010958401000.mp3", 
+  "title": "日光東照宮の庭などの石をひっくり返して掃除する", 
+  "news_prearranged_time": "2017-04-25 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>と<ruby>輪王寺<rt>りんのうじ</rt></ruby>は、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>世界遺産<rt>せかいいさん</rt></ruby></a>になっています。", 
+  "news_web_movie_uri": "k10010958401_201704231853_201704231854.mp4", 
+  "title_with_ruby": "<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などの<ruby>石<rt>いし</rt></ruby>をひっくり<ruby>返<rt>かえ</rt></ruby>して<ruby>掃除<rt>そうじ</rt></ruby>する", 
+  "news_id": "k10010958401000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170423/../20170423/K10010958401_1704231328_1704231346_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

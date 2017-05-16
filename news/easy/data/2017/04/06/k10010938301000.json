@@ -1,0 +1,109 @@
+{
+  "content_with_ruby": "<p>シリアでは<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>と、<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>がいるイドリブ<ruby>県<rt>けん</rt></ruby>の<ruby>町<rt>まち</rt></ruby>で<ruby>４日<rt>よっか</rt></ruby>、<ruby>空<rt>そら</rt></ruby>からの<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>がありました。この<ruby>町<rt>まち</rt></ruby>で<span class=\"newWord\"><ruby>活動<rt>かつどう</rt></ruby></span>している<span class=\"newWord\">ＮＧＯ</span>によると、<ruby>子<rt>こ</rt></ruby>どもなど７０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれました。</p>\n<p><span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>のあと、<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちは<span class=\"newWord\"><ruby>息<rt>いき</rt></ruby></span>が<span class=\"newWord\"><ruby>苦<rt>くる</rt></ruby>しく</span>なったり、<span class=\"newWord\"><ruby>吐<rt>は</rt></ruby>い</span>たり、<ruby>体<rt>からだ</rt></ruby>が<span class=\"newWord\"><ruby>震<rt>ふる</rt></ruby>え</span>たりしました。<span class=\"newWord\">ＮＧＯ</span>は、サリンなどの<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>使<rt>つか</rt></ruby>われた<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p><span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>とアメリカや<span class=\"newWord\">ヨーロッパ</span>の<ruby>国<rt>くに</rt></ruby>は、シリア<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>が<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>った<span class=\"newWord\"><ruby>兵器<rt>へいき</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<ruby>空<rt>そら</rt></ruby>から<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>したと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>しかし、シリア<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>った<span class=\"newWord\"><ruby>兵器<rt>へいき</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っていないと<ruby>言<rt>い</rt></ruby>っています。ロシアも「シリア<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>の<ruby>建物<rt>たてもの</rt></ruby>を<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>しました。<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>はこの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にありました」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170405/k10010938301000.html", 
+  "news_prearranged_time": "2017-04-06 16:10:00", 
+  "news_easy_image_uri": "k10010938301000.jpg", 
+  "news_web_movie_uri": "", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "words": [
+    {
+      "word": "毒", 
+      "descriptions": [
+        "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。"
+      ]
+    }, 
+    {
+      "word": "兵器", 
+      "descriptions": [
+        "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "可能性", 
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "攻撃", 
+      "descriptions": [
+        "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。"
+      ]
+    }, 
+    {
+      "word": "活動", 
+      "descriptions": [
+        "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。"
+      ]
+    }, 
+    {
+      "word": "NGO", 
+      "descriptions": [
+        "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。"
+      ]
+    }, 
+    {
+      "word": "息", 
+      "descriptions": [
+        "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "苦しい", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>がつらくて、がまんできない。", 
+        "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>足</rb><rt>た</rt></ruby>りなくて<ruby><rb>困</rb><rt>こま</rt></ruby>るようす。", 
+        "<ruby><rb>無理</rb><rt>むり</rt></ruby>があるようす。", 
+        "…しにくい。"
+      ]
+    }, 
+    {
+      "word": "吐く", 
+      "descriptions": [
+        "<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。", 
+        "<ruby><rb>中</rb><rt>なか</rt></ruby>からふき<ruby><rb>出</rb><rt>だ</rt></ruby>す。", 
+        "<ruby><rb>口</rb><rt>くち</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>言</rb><rt>い</rt></ruby>う。"
+      ]
+    }, 
+    {
+      "word": "震える", 
+      "descriptions": [
+        "<ruby><rb>小</rb><rt>ちい</rt></ruby>さくゆれる。", 
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や、その<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>が<ruby><rb>小刻</rb><rt>こきざ</rt></ruby>みに<ruby><rb>動</rb><rt>うご</rt></ruby>く。"
+      ]
+    }, 
+    {
+      "word": "ヨーロッパ", 
+      "descriptions": [
+        "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。"
+      ]
+    }
+  ], 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "outline": "シリアでは政府と、政府に反対するグループの間で戦争が続いています。", 
+  "content": "シリアでは政府と、政府に反対するグループの間で戦争が続いています。政府に反対するグループがいるイドリブ県の町で４日、空からの攻撃がありました。この町で活動しているＮＧＯによると、子どもなど７０人以上が亡くなって、大勢の人が病院に運ばれました。\n攻撃のあと、近くに住んでいる人たちは息が苦しくなったり、吐いたり、体が震えたりしました。ＮＧＯは、サリンなどの毒が使われた可能性が高いと考えています。\n政府に反対するグループとアメリカやヨーロッパの国は、シリア政府が毒が入った兵器を使って空から攻撃したと言っています。\nしかし、シリア政府は毒が入った兵器を使っていないと言っています。ロシアも「シリア政府は、政府に反対するグループの建物を攻撃しました。毒はこの建物の中にありました」と言っています。", 
+  "news_easy_voice_uri": "k10010938301000.mp3", 
+  "title": "シリアで毒が入った兵器が使われた可能性", 
+  "has_news_easy_image": true, 
+  "outline_with_ruby": "<p>シリアでは<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>と、<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。", 
+  "news_id": "k10010938301000", 
+  "title_with_ruby": "シリアで<ruby>毒<rt>どく</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>兵器<rt>へいき</rt></ruby>が<ruby>使<rt>つか</rt></ruby>われた<ruby>可能性<rt>かのうせい</rt></ruby>", 
+  "news_easy_movie_uri": "''"
+}

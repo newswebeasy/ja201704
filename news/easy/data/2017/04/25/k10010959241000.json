@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010959241000.mp3", 
+  "title": "今年最初にとれたお茶　最も高いのは１ｋｇで１０８万円", 
+  "news_prearranged_time": "2017-04-25 15:35:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>１<ruby>年<rt>ねん</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'>とれる</a>お<ruby>茶<rt>ちゃ</rt></ruby>はとても<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>香<rt>かお</rt></ruby>り</a>がいいため、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>人気<rt>にんき</rt></ruby></a>があります。", 
+  "news_web_movie_uri": "k10010959241_201704241316_201704241317.mp4", 
+  "title_with_ruby": "<ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>にとれたお<ruby>茶<rt>ちゃ</rt></ruby>　<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>いのは１ｋｇで１０８<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>", 
+  "news_id": "k10010959241000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170424/../20170424/K10010959241_1704241316_1704241317_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

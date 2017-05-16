@@ -1,0 +1,120 @@
+{
+  "content_with_ruby": "<p><ruby>３日<rt>みっか</rt></ruby>、ロシアのサンクトペテルブルクの<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があって、１４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>５０<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n<p>この<span class=\"newWord\">テロ</span><span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べている<span class=\"newWord\"><ruby>機関<rt>きかん</rt></ruby></span>は、キルギス<span class=\"newWord\"><ruby>出身<rt>しゅっしん</rt></ruby></span>の２２<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>が、<ruby>乗<rt>の</rt></ruby>っていた<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こし</span>たと<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ロシアの<span class=\"newWord\"><ruby>通信社<rt>つうしんしゃ</rt></ruby></span>によると、この<ruby>男<rt>おとこ</rt></ruby>は６<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>からサンクトペテルブルクに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>にキルギスに<ruby>行<rt>い</rt></ruby>ったあと、サンクトペテルブルクに<ruby>戻<rt>もど</rt></ruby>りました。</p>\n<p>キルギスには、<span class=\"newWord\">イスラム<ruby>教<rt>きょう</rt></ruby></span>のためだと<ruby>言<rt>い</rt></ruby>って<span class=\"newWord\">テロ</span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こす</span><span class=\"newWord\">グループ</span>がいると<ruby>言<rt>い</rt></ruby>われています。<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べている<span class=\"newWord\"><ruby>機関<rt>きかん</rt></ruby></span>は、この<ruby>男<rt>おとこ</rt></ruby>がキルギスで<span class=\"newWord\">グループ</span>の<span class=\"newWord\">メンバー</span>と<ruby>会<rt>あ</rt></ruby>った<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えて<ruby>調<rt>しら</rt></ruby>べています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170404/k10010937201000.html", 
+  "news_prearranged_time": "2017-04-05 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010937201_201704050003_201704050005.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "テロ", 
+      "descriptions": [
+        "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "出身", 
+      "descriptions": [
+        "その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。", 
+        "その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。"
+      ]
+    }, 
+    {
+      "word": "爆発", 
+      "descriptions": [
+        "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。", 
+        "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "起こす", 
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ]
+    }, 
+    {
+      "word": "約", 
+      "descriptions": [
+        "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。", 
+        "おおよそ。ほぼ。だいたい。"
+      ]
+    }, 
+    {
+      "word": "事件", 
+      "descriptions": [
+        "ふだんないような、できごと。"
+      ]
+    }, 
+    {
+      "word": "機関", 
+      "descriptions": [
+        "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>、<ruby><rb>電力</rb><rt>でんりょく</rt></ruby>などを<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。エンジン。", 
+        "ある<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。"
+      ]
+    }, 
+    {
+      "word": "発表", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。"
+      ]
+    }, 
+    {
+      "word": "通信社", 
+      "descriptions": [
+        "ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "イスラム教", 
+      "descriptions": [
+        "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "起こす", 
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "メンバー", 
+      "descriptions": [
+        "ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "可能性", 
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170404/../20170404/K10010937201_1704042247_1704042248_01_02.jpg", 
+  "outline": "３日、ロシアのサンクトペテルブルクの地下鉄で爆発があって、１４人が亡くなりました。", 
+  "content": "３日、ロシアのサンクトペテルブルクの地下鉄で爆発があって、１４人が亡くなりました。約５０人がけがをしました。\nこのテロ事件を調べている機関は、キルギス出身の２２歳の男が、乗っていた地下鉄の中で爆発を起こしたと発表しました。ロシアの通信社によると、この男は６年以上前からサンクトペテルブルクに住んでいました。今年２月にキルギスに行ったあと、サンクトペテルブルクに戻りました。\nキルギスには、イスラム教のためだと言ってテロを起こすグループがいると言われています。事件を調べている機関は、この男がキルギスでグループのメンバーと会った可能性があると考えて調べています。", 
+  "news_easy_voice_uri": "k10010937201000.mp3", 
+  "title": "ロシアの地下鉄のテロ　キルギス出身の男が爆発を起こした", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><ruby>３日<rt>みっか</rt></ruby>、ロシアのサンクトペテルブルクの<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があって、１４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。", 
+  "news_id": "k10010937201000", 
+  "title_with_ruby": "ロシアの<ruby>地下鉄<rt>ちかてつ</rt></ruby>のテロ　キルギス<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>が<ruby>爆発<rt>ばくはつ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こした", 
+  "news_easy_movie_uri": "''"
+}

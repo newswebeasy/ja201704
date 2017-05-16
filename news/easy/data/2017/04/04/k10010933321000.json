@@ -1,0 +1,79 @@
+{
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>によると、どこかに<ruby>忘<rt>わす</rt></ruby>れたり<ruby>落<rt>お</rt></ruby>としたりした「<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>」は、<ruby>毎年<rt>まいとし</rt></ruby><ruby>増<rt>ふ</rt></ruby>えていて、<ruby>去年<rt>きょねん</rt></ruby>は<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>２７９６<ruby>万<rt>まん</rt></ruby><span class=\"newWord\"><ruby>件<rt>けん</rt></ruby></span>ありました。</p>\n<p><ruby>運転<rt>うんてん</rt></ruby><span class=\"newWord\"><ruby>免許<rt>めんきょ</rt></ruby></span><span class=\"newWord\"><ruby>証<rt>しょう</rt></ruby></span>や<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などの８０％<ruby>以上<rt>いじょう</rt></ruby>は、<ruby>落<rt>お</rt></ruby>とした<ruby>人<rt>ひと</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>すことができました。しかし、<ruby>傘<rt>かさ</rt></ruby>は１％、<ruby>服<rt>ふく</rt></ruby>などは４．２％だけでした。</p>\n<p><ruby>今<rt>いま</rt></ruby>までは、<ruby>落<rt>お</rt></ruby>とした<ruby>人<rt>ひと</rt></ruby>が<ruby>遠<rt>とお</rt></ruby>くの<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>くことができない<ruby>場合<rt>ばあい</rt></ruby>、<span class=\"newWord\"><ruby>書類<rt>しょるい</rt></ruby></span>を<ruby>送<rt>おく</rt></ruby>らなければなりませんでした。<span class=\"newWord\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>は４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から、<ruby>落<rt>お</rt></ruby>とした<ruby>人<rt>ひと</rt></ruby>が<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>すると、<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ってもらうことができるようにしました。</p>\n<p><ruby>今<rt>いま</rt></ruby>まで<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>は、<ruby>警察<rt>けいさつ</rt></ruby>や<ruby>駅<rt>えき</rt></ruby>などだけが<span class=\"newWord\"><ruby>預<rt>あず</rt></ruby>かっ</span>ていましたが、<span class=\"newWord\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>は、<ruby>大学<rt>だいがく</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>も<span class=\"newWord\"><ruby>預<rt>あず</rt></ruby>かる</span>ことができるようにしました。<ruby>落<rt>お</rt></ruby>とした<ruby>人<rt>ひと</rt></ruby>が<ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>くことができる<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170401/k10010933321000.html", 
+  "news_prearranged_time": "2017-04-04 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "words": [
+    {
+      "word": "警察庁", 
+      "descriptions": [
+        "<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>各地</rb><rt>かくち</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "約", 
+      "descriptions": [
+        "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。", 
+        "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。", 
+        "おおよそ。ほぼ。だいたい。"
+      ]
+    }, 
+    {
+      "word": "件", 
+      "descriptions": [
+        "ことがら。できごと。", 
+        "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。"
+      ]
+    }, 
+    {
+      "word": "免許", 
+      "descriptions": [
+        "あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。", 
+        "<ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "証", 
+      "descriptions": [
+        "まちがっていないことを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにする。あかしをたてる。"
+      ]
+    }, 
+    {
+      "word": "書類", 
+      "descriptions": [
+        "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "預かる", 
+      "descriptions": [
+        "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>守</rb><rt>まも</rt></ruby>る。", 
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。", 
+        "ものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めないままにしておく。"
+      ]
+    }, 
+    {
+      "word": "預かる", 
+      "descriptions": [
+        "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>守</rb><rt>まも</rt></ruby>る。", 
+        "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。", 
+        "ものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めないままにしておく。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170401/../20170401/K10010933321_1703312341_1704010638_01_02.jpg", 
+  "outline": "警察庁によると、どこかに忘れたり落としたりした「落とし物」は、毎年増えていて、去年は約２７９６万件ありました。", 
+  "content": "警察庁によると、どこかに忘れたり落としたりした「落とし物」は、毎年増えていて、去年は約２７９６万件ありました。\n運転免許証や携帯電話などの８０％以上は、落とした人に返すことができました。しかし、傘は１％、服などは４．２％だけでした。\n今までは、落とした人が遠くの警察に取りに行くことができない場合、書類を送らなければなりませんでした。警察庁は４月１日から、落とした人が警察に電話すると、落とし物を家に送ってもらうことができるようにしました。\n今まで落とし物は、警察や駅などだけが預かっていましたが、警察庁は、大学や店も預かることができるようにしました。落とした人が取りに行くことができる場所が多くなります。", 
+  "news_easy_voice_uri": "k10010933321000.mp3", 
+  "title": "警察に電話して「落とし物」を送ってもらうことができる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>によると、どこかに<ruby>忘<rt>わす</rt></ruby>れたり<ruby>落<rt>お</rt></ruby>としたりした「<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>」は、<ruby>毎年<rt>まいとし</rt></ruby><ruby>増<rt>ふ</rt></ruby>えていて、<ruby>去年<rt>きょねん</rt></ruby>は<span class=\"newWord\"><ruby>約<rt>やく</rt></ruby></span>２７９６<ruby>万<rt>まん</rt></ruby><span class=\"newWord\"><ruby>件<rt>けん</rt></ruby></span>ありました。", 
+  "news_id": "k10010933321000", 
+  "title_with_ruby": "<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>して「<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>」を<ruby>送<rt>おく</rt></ruby>ってもらうことができる", 
+  "news_easy_movie_uri": "''"
+}

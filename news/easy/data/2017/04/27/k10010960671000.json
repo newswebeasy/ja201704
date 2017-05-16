@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010960671000.mp3", 
+  "title": "小学校の授業でパラリンピックのスポーツを教える", 
+  "news_prearranged_time": "2017-04-27 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>パラリンピック</a>があります。", 
+  "news_web_movie_uri": "k10010960671_201704261150_201704261154.mp4", 
+  "title_with_ruby": "<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>でパラリンピックのスポーツを<ruby>教<rt>おし</rt></ruby>える", 
+  "news_id": "k10010960671000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170425/../20170425/K10010960671_1704261150_1704261154_01_03.jpg?utm_int=nsearch_contents_search-items_003", 
+  "news_easy_movie_uri": "''"
+}

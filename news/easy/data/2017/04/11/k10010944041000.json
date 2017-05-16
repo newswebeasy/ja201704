@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010944041000.mp3", 
+  "title": "フィギュアスケートの浅田真央さん「選手をやめます」", 
+  "news_prearranged_time": "2017-04-11 15:55:00", 
+  "news_easy_image_uri": "k10010944041000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>フィギュアスケート</a>の<ruby>浅田<rt>あさだ</rt></ruby><ruby>真央<rt>まお</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選手<rt>せんしゅ</rt></ruby></a>は５<ruby>歳<rt>さい</rt></ruby>のときに<a href='javascript:void(0)' class='dicWin' id='id-0003'>スケート</a>を<ruby>始<rt>はじ</rt></ruby>めました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "フィギュアスケートの<ruby>浅田<rt>あさだ</rt></ruby><ruby>真央<rt>まお</rt></ruby>さん「<ruby>選手<rt>せんしゅ</rt></ruby>をやめます」", 
+  "news_id": "k10010944041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

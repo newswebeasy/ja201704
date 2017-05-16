@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010961561000.mp3", 
+  "title": "北朝鮮「軍ができてから最も大きな訓練を行った」", 
+  "news_prearranged_time": "2017-04-26 16:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は１９３２<ruby>年<rt>ねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>軍<rt>ぐん</rt></ruby></a>ができた<ruby>日<rt>ひ</rt></ruby>に<ruby>決<rt>き</rt></ruby>めています。", 
+  "news_web_movie_uri": "k10010961561_201704261215_201704261216.mp4", 
+  "title_with_ruby": "<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>「<ruby>軍<rt>ぐん</rt></ruby>ができてから<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きな<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った」", 
+  "news_id": "k10010961561000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170426/../20170426/K10010961561_1704261241_1704261249_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

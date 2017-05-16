@@ -1,0 +1,71 @@
+{
+  "content_with_ruby": "<p>４<ruby>月<rt>がつ</rt></ruby>から<span class=\"newWord\"><ruby>油<rt>あぶら</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の「<ruby>日清<rt>にっしん</rt></ruby>オイリオグループ」が<ruby>料理<rt>りょうり</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<span class=\"newWord\"><ruby>油<rt>あぶら</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くします。<span class=\"newWord\"><ruby>大豆<rt>だいず</rt></ruby></span>などから<ruby>作<rt>つく</rt></ruby>った<span class=\"newWord\"><ruby>油<rt>あぶら</rt></ruby></span>は１ｋｇで２０<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>、１４<span class=\"newWord\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span class=\"newWord\">オリーブ</span><span class=\"newWord\">オイル</span>は１０％ぐらい<ruby>高<rt>たか</rt></ruby>くします。</p>\n<p><ruby>紙<rt>かみ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の「<ruby>日本製紙<rt>にっぽんせいし</rt></ruby>」や「<ruby>王子製紙<rt>おうじせいし</rt></ruby>」などは、コピーに<ruby>使<rt>つか</rt></ruby>う<ruby>紙<rt>かみ</rt></ruby>などを４<ruby>月<rt>がつ</rt></ruby>から１０％<ruby>以上<rt>いじょう</rt></ruby><ruby>高<rt>たか</rt></ruby>くします。</p>\n<p>「<ruby>大王製紙<rt>だいおうせいし</rt></ruby>」と「<ruby>王子<rt>おうじ</rt></ruby>ネピア」と「<ruby>日本製紙<rt>にっぽんせいし</rt></ruby>クレシア」は、<span class=\"newWord\">ティッシュペーパー</span>やトイレットペーパーなどを５<ruby>月<rt>がつ</rt></ruby>から１０％<ruby>以上<rt>いじょう</rt></ruby><ruby>高<rt>たか</rt></ruby>くします。５<ruby>箱<rt>はこ</rt></ruby>が<span class=\"newWord\">セット</span>になっている<span class=\"newWord\">ティッシュペーパー</span>を<ruby>店<rt>みせ</rt></ruby>で<ruby>買<rt>か</rt></ruby>うときの<ruby>値段<rt>ねだん</rt></ruby>は３０<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>高<rt>たか</rt></ruby>くなりそうです。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170401/k10010933741000.html", 
+  "news_prearranged_time": "2017-04-03 16:35:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010933741_201704011808_201704011816.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "油", 
+      "descriptions": [
+        "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "大豆", 
+      "descriptions": [
+        "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>豆</rb><rt>まめ</rt></ruby>の<ruby><rb>一種</rb><rt>いっしゅ</rt></ruby>。<ruby><rb>種</rb><rt>たね</rt></ruby>には、たんぱく<ruby><rb>質</rb><rt>しつ</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>く、とうふ・みそ・なっとうなどにする。"
+      ]
+    }, 
+    {
+      "word": "種類", 
+      "descriptions": [
+        "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。"
+      ]
+    }, 
+    {
+      "word": "オリーブ", 
+      "descriptions": [
+        "<ruby><rb>実</rb><rt>み</rt></ruby>からオリーブ<ruby><rb>油</rb><rt>ゆ</rt></ruby>をとる<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>地中海地方</rb><rt>ちちゅうかいちほう</rt></ruby>や<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>小豆島</rb><rt>しょうどしま</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い。"
+      ]
+    }, 
+    {
+      "word": "オイル", 
+      "descriptions": [
+        "<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>の<ruby><rb>油</rb><rt>あぶら</rt></ruby>。", 
+        "<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>。", 
+        "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>など、<ruby><rb>機械</rb><rt>きかい</rt></ruby>にさす<ruby><rb>油</rb><rt>あぶら</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ティッシュ", 
+      "descriptions": [
+        "うすくてやわらかい、<ruby><rb>上質</rb><rt>じょうしつ</rt></ruby>のちり<ruby><rb>紙</rb><rt>がみ</rt></ruby>。ティッシュペーパー。"
+      ]
+    }, 
+    {
+      "word": "セット", 
+      "descriptions": [
+        "ひとそろい。", 
+        "テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。", 
+        "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。", 
+        "<ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。", 
+        "<ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170401/../20170401/K10010933741_1704011808_1704011817_01_03.jpg", 
+  "outline": "４月から油の会社の「日清オイリオグループ」が料理に使う油の値段を高くします。", 
+  "content": "４月から油の会社の「日清オイリオグループ」が料理に使う油の値段を高くします。大豆などから作った油は１ｋｇで２０円以上、１４種類のオリーブオイルは１０％ぐらい高くします。\n紙の会社の「日本製紙」や「王子製紙」などは、コピーに使う紙などを４月から１０％以上高くします。\n「大王製紙」と「王子ネピア」と「日本製紙クレシア」は、ティッシュペーパーやトイレットペーパーなどを５月から１０％以上高くします。５箱がセットになっているティッシュペーパーを店で買うときの値段は３０円ぐらい高くなりそうです。", 
+  "news_easy_voice_uri": "k10010933741000.mp3", 
+  "title": "４月から料理に使う油や紙の値段が高くなる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>４<ruby>月<rt>がつ</rt></ruby>から<span class=\"newWord\"><ruby>油<rt>あぶら</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の「<ruby>日清<rt>にっしん</rt></ruby>オイリオグループ」が<ruby>料理<rt>りょうり</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<span class=\"newWord\"><ruby>油<rt>あぶら</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くします。", 
+  "news_id": "k10010933741000", 
+  "title_with_ruby": "４<ruby>月<rt>がつ</rt></ruby>から<ruby>料理<rt>りょうり</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<ruby>油<rt>あぶら</rt></ruby>や<ruby>紙<rt>かみ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなる", 
+  "news_easy_movie_uri": "''"
+}

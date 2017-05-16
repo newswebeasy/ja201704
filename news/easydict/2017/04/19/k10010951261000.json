@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>周囲</rb><rt>しゅうい</rt></ruby>をよく<ruby><rb>見</rb><rt>み</rt></ruby>わたすことのできる<ruby><rb>高台</rb><rt>たかだい</rt></ruby>。<ruby><rb>見晴</rb><rt>みは</rt></ruby>らし<ruby><rb>台</rb><rt>だい</rt></ruby>。",
+          "hyouki": [
+            "展望台"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "広場"
+          ]
+        }
+      ]
+    }
+  }
+}

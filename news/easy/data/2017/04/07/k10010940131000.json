@@ -1,0 +1,118 @@
+{
+  "content_with_ruby": "<p>シリアの<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>の<ruby>人<rt>ひと</rt></ruby>たちがいる<ruby>町<rt>まち</rt></ruby>が<ruby>４日<rt>よっか</rt></ruby>、<ruby>空<rt>そら</rt></ruby>から<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>されました。７２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がけがをしました。<span class=\"newWord\">ＮＧＯ</span>の「<ruby>国境<rt>こっきょう</rt></ruby>なき<ruby>医師団<rt>いしだん</rt></ruby>」は、けがをした<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、サリンなどの<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>使<rt>つか</rt></ruby>われた<span class=\"newWord\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p>アメリカは<ruby>６日<rt>むいか</rt></ruby>、シリア<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>が<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>った<span class=\"newWord\"><ruby>兵器<rt>へいき</rt></ruby></span>で<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>したと<ruby>言<rt>い</rt></ruby>って、シリア<span class=\"newWord\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>飛行場<rt>ひこうじょう</rt></ruby>を<span class=\"newWord\">ミサイル</span>で<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>しました。アメリカ<span class=\"newWord\"><ruby>軍<rt>ぐん</rt></ruby></span>の<span class=\"newWord\"><ruby>地中海<rt>ちちゅうかい</rt></ruby></span>にいる<ruby>船<rt>ふね</rt></ruby>から５９<span class=\"newWord\"><ruby>発<rt>はつ</rt></ruby></span>の<span class=\"newWord\">ミサイル</span>を<span class=\"newWord\"><ruby>発射<rt>はっしゃ</rt></ruby></span>しました。</p>\n<p>アメリカのトランプ<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は「シリアのアサド<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はかわいい<ruby>赤<rt>あか</rt></ruby>ちゃんたちも<span class=\"newWord\"><ruby>殺<rt>ころ</rt></ruby>し</span>ました。アメリカのためにも、<span class=\"newWord\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>った<span class=\"newWord\"><ruby>兵器<rt>へいき</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>うのをやめさせることは<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>いました。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170407/k10010940131000.html", 
+  "news_prearranged_time": "2017-04-07 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010940131_201704071236_201704071255.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "軍", 
+      "descriptions": [
+        "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。", 
+        "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ミサイル", 
+      "descriptions": [
+        "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "攻撃", 
+      "descriptions": [
+        "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。", 
+        "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。"
+      ]
+    }, 
+    {
+      "word": "政府", 
+      "descriptions": [
+        "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。", 
+        "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "グループ", 
+      "descriptions": [
+        "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "NGO", 
+      "descriptions": [
+        "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。"
+      ]
+    }, 
+    {
+      "word": "毒", 
+      "descriptions": [
+        "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。"
+      ]
+    }, 
+    {
+      "word": "可能性", 
+      "descriptions": [
+        "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。"
+      ]
+    }, 
+    {
+      "word": "兵器", 
+      "descriptions": [
+        "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "地中海", 
+      "descriptions": [
+        "ヨーロッパ・アジア・アフリカの<ruby><rb>三大陸</rb><rt>さんたいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>東西</rb><rt>とうざい</rt></ruby>に<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "発", 
+      "descriptions": [
+        "<ruby><rb>放</rb><rt>はな</rt></ruby>つ。うつ。", 
+        "<ruby><rb>出</rb><rt>だ</rt></ruby>す。<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>明</rb><rt>あき</rt></ruby>らかになる。", 
+        "<ruby><rb>開</rb><rt>ひら</rt></ruby>ける。さかんになる。", 
+        "<ruby><rb>出</rb><rt>で</rt></ruby>かける。たつ。", 
+        "<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。"
+      ]
+    }, 
+    {
+      "word": "発射", 
+      "descriptions": [
+        "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }, 
+    {
+      "word": "大統領", 
+      "descriptions": [
+        "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "殺す", 
+      "descriptions": [
+        "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。", 
+        "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。", 
+        "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。", 
+        "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170407/../20170407/K10010940131_1704071313_1704071315_01_03.jpg", 
+  "outline": "シリアの政府に反対するグループの人たちがいる町が４日、空から攻撃されました。", 
+  "content": "シリアの政府に反対するグループの人たちがいる町が４日、空から攻撃されました。７２人が亡くなって、大勢の人がけがをしました。ＮＧＯの「国境なき医師団」は、けがをした人の体を調べて、サリンなどの毒が使われた可能性が高いと言っています。\nアメリカは６日、シリア政府が毒が入った兵器で攻撃したと言って、シリア軍の飛行場をミサイルで攻撃しました。アメリカ軍の地中海にいる船から５９発のミサイルを発射しました。\nアメリカのトランプ大統領は「シリアのアサド大統領はかわいい赤ちゃんたちも殺しました。アメリカのためにも、毒が入った兵器を使うのをやめさせることは大切です」と言いました。", 
+  "news_easy_voice_uri": "k10010940131000.mp3", 
+  "title": "アメリカがシリア軍の飛行場をミサイルで攻撃", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>シリアの<span class=\"newWord\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span class=\"newWord\">グループ</span>の<ruby>人<rt>ひと</rt></ruby>たちがいる<ruby>町<rt>まち</rt></ruby>が<ruby>４日<rt>よっか</rt></ruby>、<ruby>空<rt>そら</rt></ruby>から<span class=\"newWord\"><ruby>攻撃<rt>こうげき</rt></ruby></span>されました。", 
+  "news_id": "k10010940131000", 
+  "title_with_ruby": "アメリカがシリア<ruby>軍<rt>ぐん</rt></ruby>の<ruby>飛行場<rt>ひこうじょう</rt></ruby>をミサイルで<ruby>攻撃<rt>こうげき</rt></ruby>", 
+  "news_easy_movie_uri": "''"
+}

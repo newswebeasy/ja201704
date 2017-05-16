@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010949851000.mp3", 
+  "title": "アジアの卓球の大会で平野美宇選手が初めて優勝する", 
+  "news_prearranged_time": "2017-04-17 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アジアの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>卓球<rt>たっきゅう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>大会<rt>たいかい</rt></ruby></a>が<ruby>９日<rt>ここのか</rt></ruby>から１６<ruby>日<rt>にち</rt></ruby>まで<ruby>中国<rt>ちゅうごく</rt></ruby>でありました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "アジアの<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>平野<rt>ひらの</rt></ruby><ruby>美宇<rt>みう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>優勝<rt>ゆうしょう</rt></ruby>する", 
+  "news_id": "k10010949851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170415/../20170415/K10010949851_1704171524_1704171524_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

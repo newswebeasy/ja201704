@@ -1,0 +1,95 @@
+{
+  "content_with_ruby": "<p><ruby>牛丼<rt>ぎゅうどん</rt></ruby>は、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<span class=\"newWord\"><ruby>煮<rt>に</rt></ruby></span>てごはんに<span class=\"newWord\">のせ</span>た<ruby>料理<rt>りょうり</rt></ruby>です。<ruby>牛丼<rt>ぎゅうどん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えた<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\">メニュー</span>などを<ruby>作<rt>つく</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p>「すき<ruby>家<rt>や</rt></ruby>」は、ごはんではなくて、<ruby>米<rt>こめ</rt></ruby>の<span class=\"newWord\"><ruby>粉<rt>こな</rt></ruby></span>や<span class=\"newWord\">こんにゃく</span>で<ruby>作<rt>つく</rt></ruby>った<span class=\"newWord\"><ruby>麺<rt>めん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>った２つの<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\">メニュー</span>を<ruby>５日<rt>いつか</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p>「<ruby>吉野家<rt>よしのや</rt></ruby>」は、<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えた<ruby>新<rt>あたら</rt></ruby>しい<ruby>牛丼<rt>ぎゅうどん</rt></ruby>の<span class=\"newWord\"><ruby>材料<rt>ざいりょう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>って、<ruby>先月<rt>せんげつ</rt></ruby>からインターネットなどで<ruby>売<rt>う</rt></ruby>っています。</p>\n<p>「<ruby>松屋<rt>まつや</rt></ruby>」は、<ruby>先月<rt>せんげつ</rt></ruby>から<span class=\"newWord\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<ruby>店<rt>みせ</rt></ruby>で<span class=\"newWord\"><ruby>定食<rt>ていしょく</rt></ruby></span>を<span class=\"newWord\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>するとき、ごはんの<ruby>代<rt>か</rt></ruby>わりに<ruby>湯豆腐<rt>ゆどうふ</rt></ruby>にすることができるようにしました。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170405/k10010937931000.html", 
+  "news_prearranged_time": "2017-04-07 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010937931_201704051939_201704051940.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "健康", 
+      "descriptions": [
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。", 
+        "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。"
+      ]
+    }, 
+    {
+      "word": "メニュー", 
+      "descriptions": [
+        "<ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。", 
+        "<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "煮る", 
+      "descriptions": [
+        "<ruby><rb>水</rb><rt>みず</rt></ruby>やだしじるに、なまの<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>食</rb><rt>た</rt></ruby>べられるようにする。"
+      ]
+    }, 
+    {
+      "word": "載せる", 
+      "descriptions": [
+        "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。", 
+        "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。"
+      ]
+    }, 
+    {
+      "word": "粉", 
+      "descriptions": [
+        "（<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "こんにゃく", 
+      "descriptions": [
+        "コンニャクという<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>のいも（こんにゃく<ruby><rb>玉</rb><rt>だま</rt></ruby>）から<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。おでん・<ruby><rb>田楽</rb><rt>でんがく</rt></ruby>などにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。"
+      ]
+    }, 
+    {
+      "word": "麺", 
+      "descriptions": [
+        "そば・うどんなど。"
+      ]
+    }, 
+    {
+      "word": "材料", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。", 
+        "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。"
+      ]
+    }, 
+    {
+      "word": "一部", 
+      "descriptions": [
+        "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。", 
+        "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。"
+      ]
+    }, 
+    {
+      "word": "定食", 
+      "descriptions": [
+        "<ruby><rb>食堂</rb><rt>しょくどう</rt></ruby>などの、<ruby><rb>決</rb><rt>き</rt></ruby>まったこんだての<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "注文", 
+      "descriptions": [
+        "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。", 
+        "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170405/../20170405/K10010937931_1704051528_1704051532_01_02.jpg", 
+  "outline": "牛丼は、牛肉を煮てごはんにのせた料理です。", 
+  "content": "牛丼は、牛肉を煮てごはんにのせた料理です。牛丼の店の会社は、健康を考えた新しいメニューなどを作り始めました。\n「すき家」は、ごはんではなくて、米の粉やこんにゃくで作った麺を使った２つの新しいメニューを５日から始めました。\n「吉野家」は、健康を考えた新しい牛丼の材料を作って、先月からインターネットなどで売っています。\n「松屋」は、先月から一部の店で定食を注文するとき、ごはんの代わりに湯豆腐にすることができるようにしました。", 
+  "news_easy_voice_uri": "k10010937931000.mp3", 
+  "title": "牛丼の店　健康を考えた新しいメニューを作る", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><ruby>牛丼<rt>ぎゅうどん</rt></ruby>は、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<span class=\"newWord\"><ruby>煮<rt>に</rt></ruby></span>てごはんに<span class=\"newWord\">のせ</span>た<ruby>料理<rt>りょうり</rt></ruby>です。", 
+  "news_id": "k10010937931000", 
+  "title_with_ruby": "<ruby>牛丼<rt>ぎゅうどん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>　<ruby>健康<rt>けんこう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えた<ruby>新<rt>あたら</rt></ruby>しいメニューを<ruby>作<rt>つく</rt></ruby>る", 
+  "news_easy_movie_uri": "''"
+}

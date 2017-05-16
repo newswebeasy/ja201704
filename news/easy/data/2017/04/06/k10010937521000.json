@@ -1,0 +1,86 @@
+{
+  "content_with_ruby": "<p>「カッシーニ」は<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるために、ＮＡＳＡ＝アメリカ<ruby>航空宇宙局<rt>こうくううちゅうきょく</rt></ruby>とＥＳＡ＝ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<span class=\"newWord\"><ruby>探査<rt>たんさ</rt></ruby></span><span class=\"newWord\"><ruby>機<rt>き</rt></ruby></span>です。</p>\n<p>カッシーニは１９９７<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られました。２００４<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>を<ruby>回<rt>まわ</rt></ruby>る<span class=\"newWord\"><ruby>軌道<rt>きどう</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>って、<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>の<span class=\"newWord\"><ruby>輪<rt>わ</rt></ruby></span>のきれいな<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りました。</p>\n<p>カッシーニはもうすぐ<span class=\"newWord\"><ruby>燃料<rt>ねんりょう</rt></ruby></span>がなくなります。ＮＡＳＡは<ruby>４日<rt>よっか</rt></ruby>、カッシーニの<ruby>最後<rt>さいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<span class=\"newWord\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>カッシーニは<ruby>今月<rt>こんげつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>に<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>と<span class=\"newWord\"><ruby>輪<rt>わ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<ruby>入<rt>はい</rt></ruby>って、<span class=\"newWord\"><ruby>輪<rt>わ</rt></ruby></span>を<ruby>細<rt>こま</rt></ruby>かく<ruby>調<rt>しら</rt></ruby>べます。そのほか、<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>の<span class=\"newWord\"><ruby>大気<rt>たいき</rt></ruby></span>や<ruby>台風<rt>たいふう</rt></ruby>なども<ruby>調<rt>しら</rt></ruby>べます。ことし９<ruby>月<rt>がつ</rt></ruby>には<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>の<span class=\"newWord\"><ruby>大気<rt>たいき</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<ruby>壊<rt>こわ</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170405/k10010937521000.html", 
+  "news_prearranged_time": "2017-04-06 16:10:00", 
+  "news_easy_image_uri": "k10010937521000.jpg", 
+  "news_web_movie_uri": "k10010937521_201704051817_201704051818.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "土星", 
+      "descriptions": [
+        "<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>六番</rb><rt>ろくばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まりが<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>っているので、<ruby><rb>輪</rb><rt>わ</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれたように<ruby><rb>見</rb><rt>み</rt></ruby>える。"
+      ]
+    }, 
+    {
+      "word": "発表", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。"
+      ]
+    }, 
+    {
+      "word": "探査", 
+      "descriptions": [
+        "<ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。"
+      ]
+    }, 
+    {
+      "word": "機", 
+      "descriptions": [
+        "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。", 
+        "とき。きっかけ。", 
+        "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。", 
+        "はたらき。", 
+        "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。", 
+        "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。"
+      ]
+    }, 
+    {
+      "word": "打ち上げる", 
+      "descriptions": [
+        "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。", 
+        "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。"
+      ]
+    }, 
+    {
+      "word": "軌道", 
+      "descriptions": [
+        "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>や<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>の<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>線路</rb><rt>せんろ</rt></ruby>。レール。", 
+        "<ruby><rb>月</rb><rt>つき</rt></ruby>や<ruby><rb>星</rb><rt>ほし</rt></ruby>などの<ruby><rb>天体</rb><rt>てんたい</rt></ruby>が<ruby><rb>動</rb><rt>うご</rt></ruby>く、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "輪", 
+      "descriptions": [
+        "<ruby><rb>円</rb><rt>まる</rt></ruby>い<ruby><rb>形</rb><rt>かたち</rt></ruby>。", 
+        "じくの<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>って、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "燃料", 
+      "descriptions": [
+        "<ruby><rb>火</rb><rt>ひ</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>などのエネルギーを<ruby><rb>得</rb><rt>え</rt></ruby>るもの。まき・<ruby><rb>炭</rb><rt>すみ</rt></ruby>・<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>・ガスなど。"
+      ]
+    }, 
+    {
+      "word": "大気", 
+      "descriptions": [
+        "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>く<ruby><rb>空気</rb><rt>くうき</rt></ruby>。"
+      ]
+    }
+  ], 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "outline": "「カッシーニ」は土星を調べるために、ＮＡＳＡ＝アメリカ航空宇宙局とＥＳＡ＝ヨーロッパ宇宙機関が作った探査機です。", 
+  "content": "「カッシーニ」は土星を調べるために、ＮＡＳＡ＝アメリカ航空宇宙局とＥＳＡ＝ヨーロッパ宇宙機関が作った探査機です。\nカッシーニは１９９７年に打ち上げられました。２００４年に土星を回る軌道に入って、土星の輪のきれいな写真を撮りました。\nカッシーニはもうすぐ燃料がなくなります。ＮＡＳＡは４日、カッシーニの最後の仕事を発表しました。\nカッシーニは今月２６日に土星と輪の間に初めて入って、輪を細かく調べます。そのほか、土星の大気や台風なども調べます。ことし９月には土星の大気の中に入って、壊れる予定です。", 
+  "news_easy_voice_uri": "k10010937521000.mp3", 
+  "title": "土星を調べる「カッシーニ」の最後の仕事をＮＡＳＡが発表", 
+  "has_news_easy_image": true, 
+  "outline_with_ruby": "<p>「カッシーニ」は<span class=\"newWord\"><ruby>土星<rt>どせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるために、ＮＡＳＡ＝アメリカ<ruby>航空宇宙局<rt>こうくううちゅうきょく</rt></ruby>とＥＳＡ＝ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<span class=\"newWord\"><ruby>探査<rt>たんさ</rt></ruby></span><span class=\"newWord\"><ruby>機<rt>き</rt></ruby></span>です。", 
+  "news_id": "k10010937521000", 
+  "title_with_ruby": "<ruby>土星<rt>どせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる「カッシーニ」の<ruby>最後<rt>さいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をＮＡＳＡが<ruby>発表<rt>はっぴょう</rt></ruby>", 
+  "news_easy_movie_uri": "''"
+}

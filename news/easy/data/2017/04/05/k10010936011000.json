@@ -1,0 +1,42 @@
+{
+  "content_with_ruby": "<p><span class=\"newWord\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>などが<ruby>足<rt>た</rt></ruby>りなくて<span class=\"newWord\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ることができない<ruby>子<rt>こ</rt></ruby>どもを「<ruby>待機児童<rt>たいきじどう</rt></ruby>」といいます。</p>\n<p><span class=\"newWord\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>の<ruby>待機児童<rt>たいきじどう</rt></ruby>は４<ruby>万<rt>まん</rt></ruby>７７３８<ruby>人<rt>にん</rt></ruby>でした。おととし１０<ruby>月<rt>がつ</rt></ruby>より２４２３<ruby>人<rt>にん</rt></ruby><ruby>多<rt>おお</rt></ruby>くなって、２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えました。</p>\n<p><ruby>待機児童<rt>たいきじどう</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby><ruby>多<rt>おお</rt></ruby>かったのは<ruby>東京都<rt>とうきょうと</rt></ruby>で１<ruby>万<rt>まん</rt></ruby>２２３２<ruby>人<rt>にん</rt></ruby>でした。２<ruby>番目<rt>ばんめ</rt></ruby>は<ruby>沖縄県<rt>おきなわけん</rt></ruby>で４１０４<ruby>人<rt>にん</rt></ruby>、３<ruby>番目<rt>ばんめ</rt></ruby>は<ruby>千葉県<rt>ちばけん</rt></ruby>で３３８４<ruby>人<rt>にん</rt></ruby>でした。<ruby>石川県<rt>いしかわけん</rt></ruby>と<ruby>富山県<rt>とやまけん</rt></ruby>と<ruby>福井県<rt>ふくいけん</rt></ruby>と<ruby>山梨県<rt>やまなしけん</rt></ruby>と<ruby>長野県<rt>ながのけん</rt></ruby>にはいませんでした。</p>\n<p><span class=\"newWord\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、もっとたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>子<rt>こ</rt></ruby>どもを<span class=\"newWord\"><ruby>預<rt>あず</rt></ruby>け</span>て<ruby>安心<rt>あんしん</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くことができるように、<span class=\"newWord\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>をつくったりしていきたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170404/k10010936011000.html", 
+  "news_prearranged_time": "2017-04-05 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010936011_201704040522_201704040524.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "保育所", 
+      "descriptions": [
+        "<ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "厚生労働省", 
+      "descriptions": [
+        "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "預ける", 
+      "descriptions": [
+        "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、そこにおいてもらう。", 
+        "ものごとの<ruby><rb>収</rb><rt>おさ</rt></ruby>め<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>任</rb><rt>まか</rt></ruby>せる。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170404/../20170404/K10010936011_1704040522_1704040524_01_03.jpg", 
+  "outline": "保育所などが足りなくて保育所に入ることができない子どもを「待機児童」といいます。", 
+  "content": "保育所などが足りなくて保育所に入ることができない子どもを「待機児童」といいます。\n厚生労働省が調べると、去年１０月の待機児童は４万７７３８人でした。おととし１０月より２４２３人多くなって、２年続けて増えました。\n待機児童が１番多かったのは東京都で１万２２３２人でした。２番目は沖縄県で４１０４人、３番目は千葉県で３３８４人でした。石川県と富山県と福井県と山梨県と長野県にはいませんでした。\n厚生労働省は、もっとたくさんの人が子どもを預けて安心して働くことができるように、保育所をつくったりしていきたいと考えています。", 
+  "news_easy_voice_uri": "k10010936011000.mp3", 
+  "title": "４万７７３８人の子どもが保育所などに入れない", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><span class=\"newWord\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>などが<ruby>足<rt>た</rt></ruby>りなくて<span class=\"newWord\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ることができない<ruby>子<rt>こ</rt></ruby>どもを「<ruby>待機児童<rt>たいきじどう</rt></ruby>」といいます。", 
+  "news_id": "k10010936011000", 
+  "title_with_ruby": "４<ruby>万<rt>まん</rt></ruby>７７３８<ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>保育所<rt>ほいくしょ</rt></ruby>などに<ruby>入<rt>はい</rt></ruby>れない", 
+  "news_easy_movie_uri": "''"
+}

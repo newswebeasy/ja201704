@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010953491000.mp3", 
+  "title": "エジプトで３５００年前の墓からたくさんの物が見つかる", 
+  "news_prearranged_time": "2017-04-20 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>エジプトのルクソールの「<ruby>王家<rt>おうけ</rt></ruby>の<ruby>谷<rt>たに</rt></ruby>」には、<ruby>昔<rt>むかし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>王<rt>おう</rt></ruby></a>などの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>墓<rt>はか</rt></ruby></a>がたくさんあります。", 
+  "news_web_movie_uri": "k10010953491_201704191012_201704191017.mp4", 
+  "title_with_ruby": "エジプトで３５００<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>からたくさんの<ruby>物<rt>もの</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_id": "k10010953491000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170419/../20170419/K10010953491_1704191012_1704191017_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

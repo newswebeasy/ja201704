@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>商店</rb><rt>しょうてん</rt></ruby>がたくさん<ruby><rb>並</rb><rt>なら</rt></ruby>んでいる<ruby><rb>通</rb><rt>とお</rt></ruby>り。",
+          "hyouki": [
+            "商店街"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。",
+          "hyouki": [
+            "津波"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>っておいた<ruby><rb>部品</rb><rt>ぶひん</rt></ruby>を、<ruby><rb>現場</rb><rt>げんば</rt></ruby>で<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てて、<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>造</rb><rt>つく</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "プレハブ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ある<ruby><rb>時</rb><rt>とき</rt></ruby>からある<ruby><rb>時</rb><rt>とき</rt></ruby>までと<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "期間"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことばを<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>表</rb><rt>あらわ</rt></ruby>すための<ruby><rb>記号</rb><rt>きごう</rt></ruby>。もんじ。<ruby><rb>字</rb><rt>じ</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、かたかな・ひらがな・<ruby><rb>漢字</rb><rt>かんじ</rt></ruby>・アルファベットや<ruby><rb>数字</rb><rt>すうじ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "文字"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "メニュー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。",
+          "hyouki": [
+            "メニュー"
+          ]
+        }
+      ]
+    }
+  }
+}

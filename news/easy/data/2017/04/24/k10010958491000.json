@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010958491000.mp3", 
+  "title": "原子力発電所の事故から６年　村に戻って店をまた始める", 
+  "news_prearranged_time": "2017-04-24 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>福島県<rt>ふくしまけん</rt></ruby><ruby>飯舘村<rt>いいたてむら</rt></ruby>は６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>原子力<rt>げんしりょく</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発電所<rt>はつでんしょ</rt></ruby></a>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>住<rt>す</rt></ruby>むことができなくなりました。", 
+  "news_web_movie_uri": "k10010958491_201704232056_201704232102.mp4", 
+  "title_with_ruby": "<ruby>原子力<rt>げんしりょく</rt></ruby><ruby>発電所<rt>はつでんしょ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>　<ruby>村<rt>むら</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>って<ruby>店<rt>みせ</rt></ruby>をまた<ruby>始<rt>はじ</rt></ruby>める", 
+  "news_id": "k10010958491000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170423/../20170423/K10010958491_1704232056_1704232102_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

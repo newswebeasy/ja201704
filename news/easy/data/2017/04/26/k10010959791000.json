@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010959791000.mp3", 
+  "title": "埼玉県秩父市　シバザクラの花がたくさん咲く", 
+  "news_prearranged_time": "2017-04-26 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>の<ruby>羊山公園<rt>ひつじやまこうえん</rt></ruby>で<ruby>今<rt>いま</rt></ruby>、シバザクラの<ruby>花<rt>はな</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>いています。", 
+  "news_web_movie_uri": "k10010959791_201704242045_201704242045.mp4", 
+  "title_with_ruby": "<ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>　シバザクラの<ruby>花<rt>はな</rt></ruby>がたくさん<ruby>咲<rt>さ</rt></ruby>く", 
+  "news_id": "k10010959791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170424/../20170424/K10010959791_1704242045_1704242055_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

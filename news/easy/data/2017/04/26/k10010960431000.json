@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010960431000.mp3", 
+  "title": "電通が大阪などでも社員を長い時間働かせていた", 
+  "news_prearranged_time": "2017-04-26 16:40:00", 
+  "news_easy_image_uri": "k10010960431000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>広告<rt>こうこく</rt></ruby></a>の<ruby>会社<rt>かいしゃ</rt></ruby>の「<ruby>電通<rt>でんつう</rt></ruby>」で２０１５<ruby>年<rt>ねん</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>社員<rt>しゃいん</rt></ruby></a>の<ruby>女性<rt>じょせい</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>自殺<rt>じさつ</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10010960431_201704251934_201704251935.mp4", 
+  "title_with_ruby": "<ruby>電通<rt>でんつう</rt></ruby>が<ruby>大阪<rt>おおさか</rt></ruby>などでも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせていた", 
+  "news_id": "k10010960431000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

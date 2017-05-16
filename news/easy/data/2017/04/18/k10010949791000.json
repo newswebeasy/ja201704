@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010949791000.mp3", 
+  "title": "インドの学校で日本のようにチームで楽しむ運動会を開く", 
+  "news_prearranged_time": "2017-04-18 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>では、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>綱引<rt>つなひ</rt></ruby>き</a>や<ruby>大勢<rt>おおぜい</rt></ruby>でする<ruby>大<rt>おお</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>縄跳<rt>なわと</rt></ruby>び</a>など、<a href='javascript:void(0)' class='dicWin' id='id-0000'>チーム</a>で<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>競技<rt>きょうぎ</rt></ruby></a>を<ruby>楽<rt>たの</rt></ruby>しむ「<ruby>運動会<rt>うんどうかい</rt></ruby>」を<ruby>行<rt>おこな</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10010949791_201704151934_201704151935.mp4", 
+  "title_with_ruby": "インドの<ruby>学校<rt>がっこう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>のようにチームで<ruby>楽<rt>たの</rt></ruby>しむ<ruby>運動会<rt>うんどうかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く", 
+  "news_id": "k10010949791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170415/../20170415/K10010949791_1704151934_1704151936_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。",
+          "hyouki": [
+            "保育所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、そこにおいてもらう。",
+          "hyouki": [
+            "預ける"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>収</rb><rt>おさ</rt></ruby>め<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>任</rb><rt>まか</rt></ruby>せる。",
+          "hyouki": [
+            "預ける"
+          ]
+        }
+      ]
+    }
+  }
+}

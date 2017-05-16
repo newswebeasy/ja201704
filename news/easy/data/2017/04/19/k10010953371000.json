@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010953371000.mp3", 
+  "title": "フェイスブックに人を殺すビデオを出した男が自殺", 
+  "news_prearranged_time": "2017-04-19 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカのオハイオ<ruby>州<rt>しゅう</rt></ruby>で１６<ruby>日<rt>にち</rt></ruby>、３７<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>が７４<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>銃<rt>じゅう</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>撃<rt>う</rt></ruby>っ</a>て<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>殺<rt>ころ</rt></ruby>し</a>ました。", 
+  "news_web_movie_uri": "k10010953371_201704190615_201704190617.mp4", 
+  "title_with_ruby": "フェイスブックに<ruby>人<rt>ひと</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>すビデオを<ruby>出<rt>だ</rt></ruby>した<ruby>男<rt>おとこ</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>", 
+  "news_id": "k10010953371000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170419/../20170419/K10010953371_1704190615_1704190617_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

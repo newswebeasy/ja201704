@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ゆかにしく、<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>毛織物</rb><rt>けおりもの</rt></ruby>。カーペット。",
+          "hyouki": [
+            "じゅうたん"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>めの<ruby><rb>十日間</rb><rt>とおかかん</rt></ruby>。",
+          "hyouki": [
+            "上旬"
+          ]
+        }
+      ]
+    }
+  }
+}

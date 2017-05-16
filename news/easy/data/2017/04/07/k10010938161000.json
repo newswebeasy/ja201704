@@ -1,0 +1,80 @@
+{
+  "content_with_ruby": "<p>「<span class=\"newWord\"><ruby>百日<rt>ひゃくにち</rt></ruby>せき</span>」は、<ruby>赤<rt>あか</rt></ruby>ちゃんや<ruby>小<rt>ちい</rt></ruby>さい<ruby>子<rt>こ</rt></ruby>どもなどがなる<span class=\"newWord\">せき</span>が<ruby>続<rt>つづ</rt></ruby>く<ruby>病気<rt>びょうき</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>は１９４５<ruby>年<rt>ねん</rt></ruby>ごろこの<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>の１０％ぐらいが<ruby>亡<rt>な</rt></ruby>くなっていたため、１９５０<ruby>年<rt>ねん</rt></ruby>から<span class=\"newWord\">ワクチン</span>を<ruby>注射<rt>ちゅうしゃ</rt></ruby>するようになりました。</p>\n<p><ruby>日本医療研究開発機構<rt>にほんいりょうけんきゅうかいはつきこう</rt></ruby>が１０の<ruby>県<rt>けん</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<span class=\"newWord\"><ruby>計算<rt>けいさん</rt></ruby></span>すると、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby><span class=\"newWord\"><ruby>百日<rt>ひゃくにち</rt></ruby>せき</span>で<ruby>入院<rt>にゅういん</rt></ruby>した<ruby>子<rt>こ</rt></ruby>どもは５００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。この<ruby>中<rt>なか</rt></ruby>の８０<ruby>人<rt>にん</rt></ruby>ぐらいはとても<ruby>危険<rt>きけん</rt></ruby>な<span class=\"newWord\"><ruby>状態<rt>じょうたい</rt></ruby></span>でした。</p>\n<p><span class=\"newWord\"><ruby>百日<rt>ひゃくにち</rt></ruby>せき</span>の<span class=\"newWord\">ワクチン</span>は、１<ruby>歳<rt>さい</rt></ruby>までに３<ruby>回<rt>かい</rt></ruby>、そのあとに１<ruby>回<rt>かい</rt></ruby>、<ruby>注射<rt>ちゅうしゃ</rt></ruby>をすることになっています。しかし、<span class=\"newWord\">ワクチン</span>の<span class=\"newWord\"><ruby>効果<rt>こうか</rt></ruby></span>は<ruby>注射<rt>ちゅうしゃ</rt></ruby>して４<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>過<rt>す</rt></ruby>ぎると<ruby>低<rt>ひく</rt></ruby>くなります。</p>\n<p><ruby>調<rt>しら</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>は「<span class=\"newWord\">ヨーロッパ</span>などでは、<span class=\"newWord\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>や<span class=\"newWord\"><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>に<span class=\"newWord\">ワクチン</span>をまた<ruby>注射<rt>ちゅうしゃ</rt></ruby>して、<ruby>赤<rt>あか</rt></ruby>ちゃんなどに<span class=\"newWord\"><ruby>百日<rt>ひゃくにち</rt></ruby>せき</span>がうつらないようにしています。<ruby>日本<rt>にっぽん</rt></ruby>も<span class=\"newWord\">ワクチン</span>をいつ<ruby>注射<rt>ちゅうしゃ</rt></ruby>するかなどをもう<ruby>一度<rt>いちど</rt></ruby><ruby>考<rt>かんが</rt></ruby>えたほうがいいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170405/k10010938161000.html", 
+  "news_prearranged_time": "2017-04-07 11:30:00", 
+  "news_easy_image_uri": "k10010938161000.jpg", 
+  "news_web_movie_uri": "", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "words": [
+    {
+      "word": "百日ぜき", 
+      "descriptions": [
+        "<ruby><rb>子</rb><rt>こ</rt></ruby>どもに<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。せきが、<ruby><rb>百日</rb><rt>ひゃくにち</rt></ruby>も<ruby><rb>続</rb><rt>つづ</rt></ruby>くといわれるほど、<ruby><rb>治</rb><rt>なお</rt></ruby>りがおそい。"
+      ]
+    }, 
+    {
+      "word": "咳", 
+      "descriptions": [
+        "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "ワクチン", 
+      "descriptions": [
+        "<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。"
+      ]
+    }, 
+    {
+      "word": "計算", 
+      "descriptions": [
+        "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。", 
+        "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。", 
+        "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。"
+      ]
+    }, 
+    {
+      "word": "状態", 
+      "descriptions": [
+        "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。"
+      ]
+    }, 
+    {
+      "word": "効果", 
+      "descriptions": [
+        "<ruby><rb>効</rb><rt>き</rt></ruby>き<ruby><rb>目</rb><rt>め</rt></ruby>。", 
+        "<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>などで、<ruby><rb>雰囲気</rb><rt>ふんいき</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すために<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>音</rb><rt>おと</rt></ruby>や<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>など。"
+      ]
+    }, 
+    {
+      "word": "ヨーロッパ", 
+      "descriptions": [
+        "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。"
+      ]
+    }, 
+    {
+      "word": "小学生", 
+      "descriptions": [
+        "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。"
+      ]
+    }, 
+    {
+      "word": "妊娠", 
+      "descriptions": [
+        "おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。"
+      ]
+    }
+  ], 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "outline": "「百日せき」は、赤ちゃんや小さい子どもなどがなるせきが続く病気です。", 
+  "content": "「百日せき」は、赤ちゃんや小さい子どもなどがなるせきが続く病気です。日本は１９４５年ごろこの病気になった人の１０％ぐらいが亡くなっていたため、１９５０年からワクチンを注射するようになりました。\n日本医療研究開発機構が１０の県の病院を調べて計算すると、日本で去年百日せきで入院した子どもは５００人以上になりました。この中の８０人ぐらいはとても危険な状態でした。\n百日せきのワクチンは、１歳までに３回、そのあとに１回、注射をすることになっています。しかし、ワクチンの効果は注射して４年ぐらい過ぎると低くなります。\n調べた人は「ヨーロッパなどでは、小学生や妊娠している人にワクチンをまた注射して、赤ちゃんなどに百日せきがうつらないようにしています。日本もワクチンをいつ注射するかなどをもう一度考えたほうがいいと思います」と言っています。", 
+  "news_easy_voice_uri": "k10010938161000.mp3", 
+  "title": "「百日せき」で去年５００人以上の赤ちゃんや子どもが入院", 
+  "has_news_easy_image": true, 
+  "outline_with_ruby": "<p>「<span class=\"newWord\"><ruby>百日<rt>ひゃくにち</rt></ruby>せき</span>」は、<ruby>赤<rt>あか</rt></ruby>ちゃんや<ruby>小<rt>ちい</rt></ruby>さい<ruby>子<rt>こ</rt></ruby>どもなどがなる<span class=\"newWord\">せき</span>が<ruby>続<rt>つづ</rt></ruby>く<ruby>病気<rt>びょうき</rt></ruby>です。", 
+  "news_id": "k10010938161000", 
+  "title_with_ruby": "「<ruby>百日<rt>ひゃくにち</rt></ruby>せき」で<ruby>去年<rt>きょねん</rt></ruby>５００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんや<ruby>子<rt>こ</rt></ruby>どもが<ruby>入院<rt>にゅういん</rt></ruby>", 
+  "news_easy_movie_uri": "''"
+}

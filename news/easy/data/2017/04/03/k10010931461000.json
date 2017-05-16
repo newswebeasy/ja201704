@@ -1,0 +1,71 @@
+{
+  "content_with_ruby": "<p>インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>では、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>人<rt>ひと</rt></ruby>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせていることなどが<ruby>問題<rt>もんだい</rt></ruby>になっています。<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に、<ruby>留守<rt>るす</rt></ruby>だった<ruby>家<rt>いえ</rt></ruby>にもう<ruby>一度<rt>いちど</rt></ruby><span class=\"newWord\"><ruby>配達<rt>はいたつ</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>く「<ruby>再配達<rt>さいはいたつ</rt></ruby>」を<span class=\"newWord\"><ruby>減<rt>へ</rt></ruby>らし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p>ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は、<ruby>運<rt>はこ</rt></ruby>んだ<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れるための<span class=\"newWord\">ロッカー</span>を<span class=\"newWord\">コンビニ</span>のセブンーイレブンに<ruby>置<rt>お</rt></ruby>くことを<ruby>決<rt>き</rt></ruby>めました。４<ruby>月<rt>がつ</rt></ruby><span class=\"newWord\"><ruby>中旬<rt>ちゅうじゅん</rt></ruby></span>から、<ruby>東京<rt>とうきょう</rt></ruby>の３０の<ruby>店<rt>みせ</rt></ruby>に<span class=\"newWord\">ロッカー</span>を<ruby>置<rt>お</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、インターネットで<ruby>荷物<rt>にもつ</rt></ruby>をもらう<ruby>店<rt>みせ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めます。そして<ruby>店<rt>みせ</rt></ruby>で、<span class=\"newWord\">パスワード</span>を<ruby>使<rt>つか</rt></ruby>って<span class=\"newWord\">ロッカー</span>からいつでも<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることができます。</p>\n<p>ヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>などにはこのような<span class=\"newWord\">ロッカー</span>を<ruby>置<rt>お</rt></ruby>いていますが、<span class=\"newWord\">コンビニ</span>に<ruby>置<rt>お</rt></ruby>くのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170331/k10010931461000.html?utm_int=nsearch_contents_search-items_001", 
+  "news_prearranged_time": "2017-04-03 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010931461_201703310639_201703310641.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "コンビニ", 
+      "descriptions": [
+        "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。"
+      ]
+    }, 
+    {
+      "word": "ロッカー", 
+      "descriptions": [
+        "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>や<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れておく、かぎのついた<ruby><rb>戸棚</rb><rt>とだな</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "減らす", 
+      "descriptions": [
+        "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。"
+      ]
+    }, 
+    {
+      "word": "宅配便", 
+      "descriptions": [
+        "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。"
+      ]
+    }, 
+    {
+      "word": "配達", 
+      "descriptions": [
+        "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>配</rb><rt>くば</rt></ruby>って<ruby><rb>届</rb><rt>とど</rt></ruby>けること。"
+      ]
+    }, 
+    {
+      "word": "減らす", 
+      "descriptions": [
+        "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。"
+      ]
+    }, 
+    {
+      "word": "中旬", 
+      "descriptions": [
+        "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>十一</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>二十日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "パスワード", 
+      "descriptions": [
+        "コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170331/../20170331/K10010931461_1703302230_1703310006_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "outline": "インターネットで買い物する人が増えて、宅配便の荷物が増えています。", 
+  "content": "インターネットで買い物する人が増えて、宅配便の荷物が増えています。宅配便の会社では、荷物を運ぶ人を長い時間働かせていることなどが問題になっています。会社は特に、留守だった家にもう一度配達に行く「再配達」を減らしたいと考えています。\nヤマト運輸は、運んだ荷物を入れるためのロッカーをコンビニのセブンーイレブンに置くことを決めました。４月中旬から、東京の３０の店にロッカーを置く予定です。利用する人は、インターネットで荷物をもらう店を決めます。そして店で、パスワードを使ってロッカーからいつでも荷物を取ることができます。\nヤマト運輸は、駅などにはこのようなロッカーを置いていますが、コンビニに置くのは初めてです。", 
+  "news_easy_voice_uri": "k10010931461000.mp3", 
+  "title": "コンビニにロッカーを置いて荷物の「再配達」を減らす", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<span class=\"newWord\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。", 
+  "news_id": "k10010931461000", 
+  "title_with_ruby": "コンビニにロッカーを<ruby>置<rt>お</rt></ruby>いて<ruby>荷物<rt>にもつ</rt></ruby>の「<ruby>再配達<rt>さいはいたつ</rt></ruby>」を<ruby>減<rt>へ</rt></ruby>らす", 
+  "news_easy_movie_uri": "''"
+}

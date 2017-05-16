@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10010944201000.mp3", 
+  "title": "アメリカの空港で客を引っ張って無理に飛行機から降ろす", 
+  "news_prearranged_time": "2017-04-12 16:45:00", 
+  "news_easy_image_uri": "k10010944201000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>アメリカのシカゴの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>９日<rt>ここのか</rt></ruby>、ユナイテッド<ruby>航空<rt>こうくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>席<rt>せき</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>数<rt>かず</rt></ruby></a>より４<ruby>人<rt>にん</rt></ruby><ruby>多<rt>おお</rt></ruby>いことがわかりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "アメリカの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>客<rt>きゃく</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>って<ruby>無理<rt>むり</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>から<ruby>降<rt>お</rt></ruby>ろす", 
+  "news_id": "k10010944201000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

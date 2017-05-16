@@ -1,0 +1,85 @@
+{
+  "content_with_ruby": "<p>ロシアのサンクトペテルブルクで４<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>走<rt>はし</rt></ruby>っている<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>何<rt>なに</rt></ruby>かが<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>する<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。この<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>で１１<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、５０<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n<p><span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があった<ruby>場所<rt>ばしょ</rt></ruby>から２ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>にある<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>でも、<span class=\"newWord\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。</p>\n<p>ロシアのプーチン<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があった<ruby>日<rt>ひ</rt></ruby>にサンクトペテルブルクにいました。プーチン<span class=\"newWord\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>誰<rt>だれ</rt></ruby>が<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>を<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こし</span>たかなどを<ruby>急<rt>いそ</rt></ruby>いで<ruby>調<rt>しら</rt></ruby>べるように<ruby>言<rt>い</rt></ruby>いました。この<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>について<ruby>調<rt>しら</rt></ruby>べている<span class=\"newWord\"><ruby>機関<rt>きかん</rt></ruby></span>は、<span class=\"newWord\">テロ</span>だと<ruby>考<rt>かんが</rt></ruby>えて<ruby>地下鉄<rt>ちかてつ</rt></ruby>のカメラの<span class=\"newWord\"><ruby>映像<rt>えいぞう</rt></ruby></span>などをチェックしています。</p>\n<p>ロシアでは、２０１３<ruby>年<rt>ねん</rt></ruby>からは<ruby>大<rt>おお</rt></ruby>きな<ruby>町<rt>まち</rt></ruby>で<span class=\"newWord\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>った<span class=\"newWord\">テロ</span>は<span class=\"newWord\"><ruby>起<rt>お</rt></ruby>こっ</span>ていませんでした。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170404/k10010936161000.html", 
+  "news_prearranged_time": "2017-04-04 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010936161_201704040711_201704040729.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "爆発", 
+      "descriptions": [
+        "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。", 
+        "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。"
+      ]
+    }, 
+    {
+      "word": "事件", 
+      "descriptions": [
+        "ふだんないような、できごと。"
+      ]
+    }, 
+    {
+      "word": "爆弾", 
+      "descriptions": [
+        "<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "大統領", 
+      "descriptions": [
+        "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "起こす", 
+      "descriptions": [
+        "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。", 
+        "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。", 
+        "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。", 
+        "ほりかえす。"
+      ]
+    }, 
+    {
+      "word": "機関", 
+      "descriptions": [
+        "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>、<ruby><rb>電力</rb><rt>でんりょく</rt></ruby>などを<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。エンジン。", 
+        "ある<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。"
+      ]
+    }, 
+    {
+      "word": "テロ", 
+      "descriptions": [
+        "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "映像", 
+      "descriptions": [
+        "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。", 
+        "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。"
+      ]
+    }, 
+    {
+      "word": "起こる", 
+      "descriptions": [
+        "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。", 
+        "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170404/../20170404/K10010936161_1704040711_1704040729_01_03.jpg", 
+  "outline": "ロシアのサンクトペテルブルクで４月３日、走っている地下鉄の中で何かが爆発する事件がありました。", 
+  "content": "ロシアのサンクトペテルブルクで４月３日、走っている地下鉄の中で何かが爆発する事件がありました。この事件で１１人が亡くなって、５０人がけがをしました。\n爆発があった場所から２ｋｍぐらいの所にある地下鉄の駅でも、爆弾のような物が見つかりました。\nロシアのプーチン大統領は、爆発があった日にサンクトペテルブルクにいました。プーチン大統領は誰が事件を起こしたかなどを急いで調べるように言いました。この事件について調べている機関は、テロだと考えて地下鉄のカメラの映像などをチェックしています。\nロシアでは、２０１３年からは大きな町で爆弾を使ったテロは起こっていませんでした。", 
+  "news_easy_voice_uri": "k10010936161000.mp3", 
+  "title": "ロシアの地下鉄で爆発　１１人が亡くなる", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p>ロシアのサンクトペテルブルクで４<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>走<rt>はし</rt></ruby>っている<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>何<rt>なに</rt></ruby>かが<span class=\"newWord\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>する<span class=\"newWord\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。", 
+  "news_id": "k10010936161000", 
+  "title_with_ruby": "ロシアの<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>爆発<rt>ばくはつ</rt></ruby>　１１<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_easy_movie_uri": "''"
+}

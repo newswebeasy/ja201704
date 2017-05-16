@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010953361000.mp3", 
+  "title": "イギリスのメイ首相「６月に総選挙を行いたい」", 
+  "news_prearranged_time": "2017-04-19 16:25:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>イギリスでは、<ruby>国<rt>くに</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>議会<rt>ぎかい</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>議員<rt>ぎいん</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ「<ruby>総選挙<rt>そうせんきょ</rt></ruby>」を２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>でした。", 
+  "news_web_movie_uri": "k10010953361_201704190510_201704190512.mp4", 
+  "title_with_ruby": "イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>「６<ruby>月<rt>がつ</rt></ruby>に<ruby>総選挙<rt>そうせんきょ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いたい」", 
+  "news_id": "k10010953361000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170419/../20170419/K10010953361_1704190343_1704190415_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,73 @@
+{
+  "content_with_ruby": "<p><ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>南三陸町<rt>みなみさんりくちょう</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のとき、<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>などで<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>けました。<span class=\"newWord\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>けた<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、２０１２<ruby>年<rt>ねん</rt></ruby>に<span class=\"newWord\">プレハブ</span>を<ruby>建<rt>た</rt></ruby>てて「<ruby>南三陸<rt>みなみさんりく</rt></ruby>さんさん<ruby>商店街<rt>しょうてんがい</rt></ruby>」をつくりました。</p>\n<p>「<ruby>南三陸<rt>みなみさんりく</rt></ruby>さんさん<ruby>商店街<rt>しょうてんがい</rt></ruby>」は３<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>が<ruby>来<rt>こ</rt></ruby>ないように<span class=\"newWord\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>高<rt>たか</rt></ruby>くする<span class=\"newWord\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>終<rt>お</rt></ruby>わった<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>を<ruby>建<rt>た</rt></ruby>てて<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>商店街<rt>しょうてんがい</rt></ruby></span>ができてから１か<ruby>月<rt>げつ</rt></ruby>で、１８<ruby>万<rt>まん</rt></ruby>６０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じ<span class=\"newWord\"><ruby>期間<rt>きかん</rt></ruby></span>の２．５<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>商店街<rt>しょうてんがい</rt></ruby></span>にはほかの<ruby>県<rt>けん</rt></ruby>からもたくさん<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>き</rt></ruby>ていて、<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなることがあります。<span class=\"newWord\"><ruby>商店街<rt>しょうてんがい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>などを<span class=\"newWord\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n<p></p>\n<p></p>", 
+  "news_web_uri": "http://www3.nhk.or.jp/news/html/20170403/k10010935811000.html", 
+  "news_prearranged_time": "2017-04-04 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "news_web_movie_uri": "k10010935811_201704032020_201704032020.mp4", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "words": [
+    {
+      "word": "商店街", 
+      "descriptions": [
+        "<ruby><rb>商店</rb><rt>しょうてん</rt></ruby>がたくさん<ruby><rb>並</rb><rt>なら</rt></ruby>んでいる<ruby><rb>通</rb><rt>とお</rt></ruby>り。"
+      ]
+    }, 
+    {
+      "word": "津波", 
+      "descriptions": [
+        "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。"
+      ]
+    }, 
+    {
+      "word": "被害", 
+      "descriptions": [
+        "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "プレハブ", 
+      "descriptions": [
+        "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>っておいた<ruby><rb>部品</rb><rt>ぶひん</rt></ruby>を、<ruby><rb>現場</rb><rt>げんば</rt></ruby>で<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てて、<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>造</rb><rt>つく</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "土地", 
+      "descriptions": [
+        "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。", 
+        "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。", 
+        "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "工事", 
+      "descriptions": [
+        "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "期間", 
+      "descriptions": [
+        "ある<ruby><rb>時</rb><rt>とき</rt></ruby>からある<ruby><rb>時</rb><rt>とき</rt></ruby>までと<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>間</rb><rt>あいだ</rt></ruby>。"
+      ]
+    }, 
+    {
+      "word": "増やす", 
+      "descriptions": [
+        "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。"
+      ]
+    }
+  ], 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170403/../20170403/K10010935811_1704032020_1704032021_01_03.jpg", 
+  "outline": "宮城県南三陸町は、２０１１年の東日本大震災のとき、津波などで大きな被害を受けました。", 
+  "content": "宮城県南三陸町は、２０１１年の東日本大震災のとき、津波などで大きな被害を受けました。被害を受けた店の人たちは、２０１２年にプレハブを建てて「南三陸さんさん商店街」をつくりました。\n「南三陸さんさん商店街」は３月３日、津波が来ないように土地を高くする工事が終わった場所に新しい建物を建てて引っ越しました。新しい商店街ができてから１か月で、１８万６０００人以上の客が来ました。去年の同じ期間の２．５倍以上に増えました。\n新しい商店街にはほかの県からもたくさん客が来ていて、駐車場が足りなくなることがあります。商店街の人は「車の案内をする人などを増やしたいと思います」と話しています。", 
+  "news_easy_voice_uri": "k10010935811000.mp3", 
+  "title": "宮城県南三陸町　新しい商店街に１か月で１８万人が来る", 
+  "has_news_easy_image": false, 
+  "outline_with_ruby": "<p><ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>南三陸町<rt>みなみさんりくちょう</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のとき、<span class=\"newWord\"><ruby>津波<rt>つなみ</rt></ruby></span>などで<ruby>大<rt>おお</rt></ruby>きな<span class=\"newWord\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>けました。", 
+  "news_id": "k10010935811000", 
+  "title_with_ruby": "<ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>南三陸町<rt>みなみさんりくちょう</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しい<ruby>商店街<rt>しょうてんがい</rt></ruby>に１か<ruby>月<rt>げつ</rt></ruby>で１８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>来<rt>く</rt></ruby>る", 
+  "news_easy_movie_uri": "''"
+}

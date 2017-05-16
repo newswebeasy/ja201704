@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10010946261000.mp3", 
+  "title": "日本のラグビーのチームが事故で壊れた車を動かす", 
+  "news_prearranged_time": "2017-04-13 15:50:00", 
+  "news_easy_image_uri": "k10010946261000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>ラグビー</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>チーム</a>の「サンウルブズ」の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>選手<rt>せんしゅ</rt></ruby></a>たちが、<ruby>事故<rt>じこ</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>車<rt>くるま</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>動<rt>うご</rt></ruby>かし</a>た<a href='javascript:void(0)' class='dicWin' id='id-0005'>ビデオ</a>がインターネットで<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>人気<rt>にんき</rt></ruby></a>になっています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のラグビーのチームが<ruby>事故<rt>じこ</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>車<rt>くるま</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かす", 
+  "news_id": "k10010946261000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}
