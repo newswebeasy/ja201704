@@ -1,0 +1,36 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ミツバチが<ruby><rb>花</rb><rt>はな</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めてきて、<ruby><rb>巣</rb><rt>す</rt></ruby>にたくわえたみつ。",
+          "hyouki": [
+            "蜂蜜"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。",
+          "hyouki": [
+            "菌"
+          ]
+        },
+        {
+          "def": "カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "菌"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>辺</rb><rt>へん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>同</rb><rt>おな</rt></ruby>じで、<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>角</rb><rt>かく</rt></ruby>が<ruby><rb>直角</rb><rt>ちょっかく</rt></ruby>（九〇<ruby><rb>度</rb><rt>ど</rt></ruby>）の<ruby><rb>四角形</rb><rt>しかくけい</rt></ruby>。<ruby><rb>真四角</rb><rt>ましかく</rt></ruby>。",
+          "hyouki": [
+            "正方形"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>角</rb><rt>かく</rt></ruby>がみな<ruby><rb>直角</rb><rt>ちょっかく</rt></ruby>である<ruby><rb>長</rb><rt>なが</rt></ruby><ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "長方形"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>すること。また、<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>したもの。",
+          "hyouki": [
+            "プリント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>模様</rb><rt>もよう</rt></ruby>を<ruby><rb>染</rb><rt>そ</rt></ruby>めること。また、その<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "プリント"
+          ]
+        },
+        {
+          "def": "とった<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>を、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>焼</rb><rt>や</rt></ruby>きつけること。また、そのもの。",
+          "hyouki": [
+            "プリント"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ]
+    }
+  }
+}

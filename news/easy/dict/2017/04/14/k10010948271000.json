@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>。",
+          "hyouki": [
+            "遺体"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>首</rb><rt>くび</rt></ruby>などの<ruby><rb>周</rb><rt>まわ</rt></ruby>りに）<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "絞める"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "容疑者"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "DNA"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>親</rb><rt>おや</rt></ruby>。または、<ruby><rb>親</rb><rt>おや</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>子</rb><rt>こ</rt></ruby>どもなどを<ruby><rb>守</rb><rt>まも</rt></ruby>り<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "保護者"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ]
+    }
+  }
+}

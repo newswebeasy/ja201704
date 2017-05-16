@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。",
+          "hyouki": [
+            "爆発"
+          ]
+        },
+        {
+          "def": "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。",
+          "hyouki": [
+            "爆発"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。",
+          "hyouki": [
+            "翼"
+          ]
+        },
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。",
+          "hyouki": [
+            "翼"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "時速"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ]
+    }
+  }
+}

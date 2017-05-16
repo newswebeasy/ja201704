@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>。",
+          "hyouki": [
+            "ビジネス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>する<ruby><rb>科目</rb><rt>かもく</rt></ruby>。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>国語</rb><rt>こくご</rt></ruby>・<ruby><rb>算数</rb><rt>さんすう</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>など。",
+          "hyouki": [
+            "学科"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。",
+          "hyouki": [
+            "管理"
+          ]
+        },
+        {
+          "def": "よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。",
+          "hyouki": [
+            "管理"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>や<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>めるために、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>実習</rb><rt>じっしゅう</rt></ruby>をすること。",
+          "hyouki": [
+            "研修"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとのなりゆきや、<ruby><rb>結果</rb><rt>けっか</rt></ruby>などを<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、その<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "報告"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。",
+          "hyouki": [
+            "じゃがいも"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。",
+          "hyouki": [
+            "状態"
+          ]
+        }
+      ]
+    }
+  }
+}

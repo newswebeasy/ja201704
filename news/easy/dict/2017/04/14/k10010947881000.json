@@ -1,0 +1,120 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>油</rb><rt>あぶら</rt></ruby>のように、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>形</rb><rt>かたち</rt></ruby>がなく、<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>のあるもの。",
+          "hyouki": [
+            "液体"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "油"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "写る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。",
+          "hyouki": [
+            "写る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "容疑者"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。",
+          "hyouki": [
+            "関東地方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。",
+          "hyouki": [
+            "地面"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "地面"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>がなくて、<ruby><rb>平</rb><rt>たい</rt></ruby>らな<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>土地</rb><rt>とち</rt></ruby>が<ruby><rb>続</rb><rt>つづ</rt></ruby>いている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "平野"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ]
+    }
+  }
+}

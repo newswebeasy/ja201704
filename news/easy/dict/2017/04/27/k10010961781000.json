@@ -1,0 +1,176 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>宿屋</rb><rt>やどや</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "展示"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ほんのちょっとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "一瞬"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などに<ruby><rb>混</rb><rt>ま</rt></ruby>ざって、<ruby><rb>元</rb><rt>もと</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>がなくなる。",
+          "hyouki": [
+            "溶ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようになる。",
+          "hyouki": [
+            "溶ける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>屋根</rb><rt>やね</rt></ruby>をおおうのに<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>めてのばし、かまで<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "瓦"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "きちんとかたづけること。",
+          "hyouki": [
+            "整理"
+          ]
+        },
+        {
+          "def": "<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>でないものを<ruby><rb>捨</rb><rt>す</rt></ruby>てること。",
+          "hyouki": [
+            "整理"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "いくつかある<ruby><rb>建物</rb><rt>たてもの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>主</rb><rt>しゅ</rt></ruby>になる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        },
+        {
+          "def": "この<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>当館</rb><rt>とうかん</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        }
+      ]
+    }
+  }
+}
